@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-09T12:23:21",
+  "generated": "2026-04-09T12:42:18",
   "date": "2026-04-09",
   "season": 2026,
   "sport": "color_guard",
@@ -589,6 +589,61 @@
             "rank": 8,
             "group": "Somerset Academy",
             "score": 78.2
+          }
+        ]
+      },
+      {
+        "class": "Scholastic Open",
+        "event": "2026 SO Prelims - Round 3",
+        "date": "2026-04-09",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Timber Creek HS (FL)",
+            "score": 91.9
+          },
+          {
+            "rank": 2,
+            "group": "James Bowie HS (Austin)",
+            "score": 88.4
+          },
+          {
+            "rank": 3,
+            "group": "River Bluff HS",
+            "score": 88.2
+          },
+          {
+            "rank": 4,
+            "group": "Pope HS",
+            "score": 87.9
+          },
+          {
+            "rank": 5,
+            "group": "Lockport Township HS",
+            "score": 86.7
+          },
+          {
+            "rank": 6,
+            "group": "Westfield HS (IN)",
+            "score": 83.3
+          },
+          {
+            "rank": 7,
+            "group": "Desert Vista HS",
+            "score": 82.3
+          },
+          {
+            "rank": 8,
+            "group": "Air Academy HS",
+            "score": 82.2
+          },
+          {
+            "rank": 9,
+            "group": "McLean HS",
+            "score": 78.9
           }
         ]
       }
