@@ -1,0 +1,366 @@
+{
+  "generated": "2026-04-12T09:02:49",
+  "date": "2026-04-11",
+  "season": 2026,
+  "sport": "color_guard",
+  "summary": {
+    "Independent A": [],
+    "Independent Open": [
+      {
+        "class": "Independent Open",
+        "event": "2026 CG Open Class Finals - Round 0",
+        "date": "2026-04-11",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "First Flight",
+            "score": 98.9
+          },
+          {
+            "rank": 2,
+            "group": "Homage Independent",
+            "score": 96.25
+          },
+          {
+            "rank": 3,
+            "group": "ORIGINS Open",
+            "score": 96.2
+          },
+          {
+            "rank": 4,
+            "group": "Revival",
+            "score": 94.1
+          },
+          {
+            "rank": 5,
+            "group": "Undaunted",
+            "score": 93.6
+          },
+          {
+            "rank": 6,
+            "group": "Noir Independent",
+            "score": 92.95
+          },
+          {
+            "rank": 7,
+            "group": "Opus Winter Guard",
+            "score": 92.55
+          },
+          {
+            "rank": 8,
+            "group": "Tampa Independent Open",
+            "score": 90.0
+          },
+          {
+            "rank": 9,
+            "group": "Collage Winter Guard",
+            "score": 89.1
+          },
+          {
+            "rank": 10,
+            "group": "Industry Independent",
+            "score": 88.0
+          },
+          {
+            "rank": 11,
+            "group": "NOVA Independent Winterguard",
+            "score": 87.6
+          },
+          {
+            "rank": 12,
+            "group": "George Mason University Winterguard",
+            "score": 85.75
+          },
+          {
+            "rank": 13,
+            "group": "Blessed Sacrament",
+            "score": 85.65
+          },
+          {
+            "rank": 14,
+            "group": "Vestige",
+            "score": 84.6
+          },
+          {
+            "rank": 15,
+            "group": "Sensation Performance Ensemble",
+            "score": 83.55
+          }
+        ]
+      }
+    ],
+    "Independent World": [
+      {
+        "class": "Independent World",
+        "event": "2026 CG World Class Finals - Round 0",
+        "date": "2026-04-11",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Fusion Winter Guard",
+            "score": 97.4
+          },
+          {
+            "rank": 2,
+            "group": "Paramount",
+            "score": 97.3
+          },
+          {
+            "rank": 3,
+            "group": "Etude",
+            "score": 94.55
+          },
+          {
+            "rank": 3,
+            "group": "Fantasia",
+            "score": 94.55
+          },
+          {
+            "rank": 5,
+            "group": "Blessed Sacrament",
+            "score": 93.45
+          },
+          {
+            "rank": 6,
+            "group": "Juxtaposition",
+            "score": 91.25
+          },
+          {
+            "rank": 7,
+            "group": "ORIGINS",
+            "score": 89.7
+          },
+          {
+            "rank": 8,
+            "group": "Onyx",
+            "score": 89.45
+          },
+          {
+            "rank": 9,
+            "group": "Vox Artium",
+            "score": 89.2
+          },
+          {
+            "rank": 10,
+            "group": "Mayflower",
+            "score": 87.35
+          },
+          {
+            "rank": 11,
+            "group": "Tampa Independent",
+            "score": 85.55
+          },
+          {
+            "rank": 12,
+            "group": "Lexis",
+            "score": 85.0
+          },
+          {
+            "rank": 13,
+            "group": "FIU Pegasus World",
+            "score": 83.85
+          },
+          {
+            "rank": 14,
+            "group": "Phoenix Independent",
+            "score": 82.6
+          },
+          {
+            "rank": 15,
+            "group": "Anesidora",
+            "score": 82.0
+          }
+        ]
+      }
+    ],
+    "Scholastic A": [],
+    "Scholastic Open": [
+      {
+        "class": "Scholastic Open",
+        "event": "2026 CG Open Class Finals - Round 0",
+        "date": "2026-04-11",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Oviedo HS",
+            "score": 98.15
+          },
+          {
+            "rank": 2,
+            "group": "Timber Creek HS (FL)",
+            "score": 97.4
+          },
+          {
+            "rank": 3,
+            "group": "Brownsburg HS",
+            "score": 96.15
+          },
+          {
+            "rank": 4,
+            "group": "Franklin Central HS",
+            "score": 95.15
+          },
+          {
+            "rank": 5,
+            "group": "Mason HS",
+            "score": 93.9
+          },
+          {
+            "rank": 6,
+            "group": "Dobyns-Bennett HS",
+            "score": 93.2
+          },
+          {
+            "rank": 7,
+            "group": "Wylie HS",
+            "score": 92.0
+          },
+          {
+            "rank": 8,
+            "group": "Amador Valley HS",
+            "score": 90.6
+          },
+          {
+            "rank": 9,
+            "group": "Holly Springs HS",
+            "score": 89.75
+          },
+          {
+            "rank": 10,
+            "group": "Hamilton Southeastern HS",
+            "score": 89.55
+          },
+          {
+            "rank": 11,
+            "group": "Pearland HS",
+            "score": 89.15
+          },
+          {
+            "rank": 12,
+            "group": "James Bowie HS (Austin)",
+            "score": 88.2
+          },
+          {
+            "rank": 13,
+            "group": "Westlake HS (TX)",
+            "score": 87.85
+          },
+          {
+            "rank": 14,
+            "group": "River Bluff HS",
+            "score": 86.55
+          },
+          {
+            "rank": 15,
+            "group": "Ronald Reagan HS",
+            "score": 85.7
+          }
+        ]
+      }
+    ],
+    "Scholastic World": [
+      {
+        "class": "Scholastic World",
+        "event": "2026 CG World Class Finals - Round 0",
+        "date": "2026-04-11",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Arcadia HS",
+            "score": 98.85
+          },
+          {
+            "rank": 2,
+            "group": "Flanagan HS",
+            "score": 97.9
+          },
+          {
+            "rank": 3,
+            "group": "Avon HS",
+            "score": 96.7
+          },
+          {
+            "rank": 4,
+            "group": "The Woodlands HS",
+            "score": 94.5
+          },
+          {
+            "rank": 5,
+            "group": "Tarpon Springs HS",
+            "score": 94.05
+          },
+          {
+            "rank": 6,
+            "group": "Center Grove HS",
+            "score": 93.35
+          },
+          {
+            "rank": 7,
+            "group": "Carmel HS",
+            "score": 90.8
+          },
+          {
+            "rank": 8,
+            "group": "Miamisburg HS",
+            "score": 90.35
+          },
+          {
+            "rank": 9,
+            "group": "El Dorado HS",
+            "score": 89.35
+          },
+          {
+            "rank": 10,
+            "group": "Northview HS",
+            "score": 87.5
+          },
+          {
+            "rank": 11,
+            "group": "Norwin HS",
+            "score": 86.6
+          },
+          {
+            "rank": 12,
+            "group": "Stoneman Douglas HS",
+            "score": 84.75
+          },
+          {
+            "rank": 13,
+            "group": "Little Elm HS",
+            "score": 84.25
+          },
+          {
+            "rank": 14,
+            "group": "Warren Central HS (IN)",
+            "score": 83.95
+          },
+          {
+            "rank": 15,
+            "group": "Chino Hills HS",
+            "score": 82.95
+          }
+        ]
+      }
+    ],
+    "Independent Junior": [],
+    "Independent Novice": [],
+    "Independent Regional A": [],
+    "Independent Senior": [],
+    "Scholastic Middle School": [],
+    "Scholastic Novice": [],
+    "Scholastic Regional A": [],
+    "Scholastic University": []
+  }
+}
