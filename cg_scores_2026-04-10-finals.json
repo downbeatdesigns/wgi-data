@@ -1,0 +1,219 @@
+{
+  "generated": "2026-04-12T10:38:59",
+  "date": "2026-04-10-finals",
+  "season": 2026,
+  "sport": "color_guard",
+  "summary": {
+    "Independent A": [
+      {
+        "class": "Independent A",
+        "event": "2026 CG A Class Finals - Round 0",
+        "date": "2026-04-10",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Caledonia Independent",
+            "score": 96.855
+          },
+          {
+            "rank": 2,
+            "group": "Maharlika",
+            "score": 96.755
+          },
+          {
+            "rank": 3,
+            "group": "Impulse Winterguard",
+            "score": 96.74
+          },
+          {
+            "rank": 4,
+            "group": "RGV Winter Guard",
+            "score": 94.175
+          },
+          {
+            "rank": 5,
+            "group": "Orlando Visual",
+            "score": 93.635
+          },
+          {
+            "rank": 6,
+            "group": "FIU GOLD",
+            "score": 91.32
+          },
+          {
+            "rank": 7,
+            "group": "Anesidora A",
+            "score": 91.18
+          },
+          {
+            "rank": 8,
+            "group": "Relentless",
+            "score": 90.185
+          },
+          {
+            "rank": 9,
+            "group": "Sonnor",
+            "score": 90.145
+          },
+          {
+            "rank": 10,
+            "group": "Rhapsody",
+            "score": 89.495
+          },
+          {
+            "rank": 11,
+            "group": "Crescent City Color Guard",
+            "score": 89.265
+          },
+          {
+            "rank": 12,
+            "group": "San Diego State University Aztec Winter Guard",
+            "score": 87.21
+          },
+          {
+            "rank": 13,
+            "group": "Beau Monde Independent",
+            "score": 86.67
+          },
+          {
+            "rank": 14,
+            "group": "Old Line Independent Color Guard",
+            "score": 85.935
+          },
+          {
+            "rank": 15,
+            "group": "Opulence",
+            "score": 85.345
+          }
+        ]
+      }
+    ],
+    "Independent Open": [],
+    "Independent World": [],
+    "Scholastic A": [
+      {
+        "class": "Scholastic A",
+        "event": "2026 CG A Class Finals - Round 0",
+        "date": "2026-04-10",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Southington HS",
+            "score": 97.615
+          },
+          {
+            "rank": 2,
+            "group": "John C. Birdlebough HS",
+            "score": 96.47
+          },
+          {
+            "rank": 3,
+            "group": "Campbell County HS",
+            "score": 95.645
+          },
+          {
+            "rank": 4,
+            "group": "Edwardsville HS",
+            "score": 93.71
+          },
+          {
+            "rank": 5,
+            "group": "Rock Hill HS (TX)",
+            "score": 93.595
+          },
+          {
+            "rank": 6,
+            "group": "Carroll HS (IN)",
+            "score": 93.23
+          },
+          {
+            "rank": 7,
+            "group": "Rancho Cucamonga HS",
+            "score": 92.085
+          },
+          {
+            "rank": 8,
+            "group": "Diamond Bar HS",
+            "score": 91.82
+          },
+          {
+            "rank": 9,
+            "group": "Friendswood HS",
+            "score": 91.45
+          },
+          {
+            "rank": 10,
+            "group": "Elizabeth HS",
+            "score": 89.6
+          },
+          {
+            "rank": 11,
+            "group": "Grand Oaks HS",
+            "score": 89.34
+          },
+          {
+            "rank": 12,
+            "group": "Cooper City HS",
+            "score": 88.675
+          },
+          {
+            "rank": 13,
+            "group": "Madison Central HS (KY)",
+            "score": 87.35
+          },
+          {
+            "rank": 14,
+            "group": "Unionville HS",
+            "score": 86.835
+          },
+          {
+            "rank": 15,
+            "group": "Jersey Village HS",
+            "score": 85.8
+          },
+          {
+            "rank": 16,
+            "group": "Foothill HS (NV)",
+            "score": 85.735
+          },
+          {
+            "rank": 17,
+            "group": "Hamilton HS (OH)",
+            "score": 84.975
+          },
+          {
+            "rank": 18,
+            "group": "Hoover HS (AL) Varsity",
+            "score": 84.275
+          },
+          {
+            "rank": 19,
+            "group": "Salem HS",
+            "score": 83.845
+          },
+          {
+            "rank": 20,
+            "group": "Liverpool HS",
+            "score": 83.07
+          }
+        ]
+      }
+    ],
+    "Scholastic Open": [],
+    "Scholastic World": [],
+    "Independent Junior": [],
+    "Independent Novice": [],
+    "Independent Regional A": [],
+    "Independent Senior": [],
+    "Scholastic Middle School": [],
+    "Scholastic Novice": [],
+    "Scholastic Regional A": [],
+    "Scholastic University": []
+  }
+}
