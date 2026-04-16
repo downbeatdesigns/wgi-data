@@ -1,0 +1,513 @@
+{
+  "generated": "2026-04-16T15:17:42",
+  "date": "2026-04-16",
+  "season": 2026,
+  "sport": "percussion",
+  "summary": {
+    "Percussion Scholastic A": [
+      {
+        "class": "Percussion Scholastic A",
+        "event": "2026 PSA Prelims - Round 1",
+        "date": "2026-04-16",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Kings HS",
+            "score": 93.15
+          },
+          {
+            "rank": 2,
+            "group": "Jordan-Elbridge HS",
+            "score": 93.088
+          },
+          {
+            "rank": 3,
+            "group": "Temple City HS",
+            "score": 92.775
+          },
+          {
+            "rank": 4,
+            "group": "Fleming Island HS",
+            "score": 91.888
+          },
+          {
+            "rank": 5,
+            "group": "Central HS (TX)",
+            "score": 88.225
+          },
+          {
+            "rank": 6,
+            "group": "Central Dauphin HS",
+            "score": 88.125
+          },
+          {
+            "rank": 7,
+            "group": "Kickapoo HS",
+            "score": 87.825
+          },
+          {
+            "rank": 8,
+            "group": "Monarch HS",
+            "score": 87.235
+          },
+          {
+            "rank": 9,
+            "group": "Downingtown East HS",
+            "score": 86.0
+          },
+          {
+            "rank": 10,
+            "group": "Bellbrook HS",
+            "score": 84.25
+          },
+          {
+            "rank": 11,
+            "group": "Central Crossing HS",
+            "score": 83.325
+          },
+          {
+            "rank": 12,
+            "group": "Green Level HS",
+            "score": 82.9
+          },
+          {
+            "rank": 13,
+            "group": "Xenia HS",
+            "score": 76.575
+          },
+          {
+            "rank": 14,
+            "group": "Terre Haute North HS",
+            "score": 73.5
+          }
+        ]
+      },
+      {
+        "class": "Percussion Scholastic A",
+        "event": "2026 PSA Prelims - Round 2",
+        "date": "2026-04-16",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Alpharetta HS",
+            "score": 95.375
+          },
+          {
+            "rank": 2,
+            "group": "E.D. White Catholic HS",
+            "score": 92.688
+          },
+          {
+            "rank": 3,
+            "group": "Choctawhatchee HS",
+            "score": 92.25
+          },
+          {
+            "rank": 4,
+            "group": "Pearl HS",
+            "score": 91.625
+          },
+          {
+            "rank": 5,
+            "group": "Highland Regional HS",
+            "score": 88.4
+          },
+          {
+            "rank": 6,
+            "group": "Mansfield HS",
+            "score": 86.688
+          },
+          {
+            "rank": 7,
+            "group": "Bridgewater Raritan HS",
+            "score": 85.775
+          },
+          {
+            "rank": 8,
+            "group": "Lakeway Christian Academy",
+            "score": 85.575
+          },
+          {
+            "rank": 9,
+            "group": "Upper Moreland HS",
+            "score": 85.05
+          },
+          {
+            "rank": 10,
+            "group": "Stoneman Douglas HS",
+            "score": 85.0
+          },
+          {
+            "rank": 11,
+            "group": "Perkiomen Valley HS",
+            "score": 83.075
+          },
+          {
+            "rank": 12,
+            "group": "Osseo Area Combined Schools",
+            "score": 82.675
+          },
+          {
+            "rank": 13,
+            "group": "Dennis-Yarmouth HS",
+            "score": 76.125
+          }
+        ]
+      }
+    ],
+    "Percussion Scholastic Open": [
+      {
+        "class": "Percussion Scholastic Open",
+        "event": "2026 PSO Prelims - Round 1",
+        "date": "2026-04-16",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Jordan HS",
+            "score": 91.95
+          },
+          {
+            "rank": 2,
+            "group": "Beavercreek HS",
+            "score": 91.2
+          },
+          {
+            "rank": 3,
+            "group": "Arbor View HS",
+            "score": 91.175
+          },
+          {
+            "rank": 4,
+            "group": "Central Lafourche HS",
+            "score": 91.088
+          },
+          {
+            "rank": 5,
+            "group": "Southlake Carroll HS",
+            "score": 89.85
+          },
+          {
+            "rank": 6,
+            "group": "Brandon Valley HS",
+            "score": 89.15
+          },
+          {
+            "rank": 7,
+            "group": "Saginaw HS",
+            "score": 87.305
+          },
+          {
+            "rank": 8,
+            "group": "Papillion-La Vista South HS",
+            "score": 86.088
+          },
+          {
+            "rank": 9,
+            "group": "South Forsyth HS",
+            "score": 84.175
+          },
+          {
+            "rank": 10,
+            "group": "Hudsonville HS",
+            "score": 82.7
+          },
+          {
+            "rank": 11,
+            "group": "Germantown HS",
+            "score": 80.825
+          },
+          {
+            "rank": 12,
+            "group": "Mechanicsburg HS",
+            "score": 80.0
+          },
+          {
+            "rank": 13,
+            "group": "Westfield HS (IN)",
+            "score": 77.5
+          }
+        ]
+      },
+      {
+        "class": "Percussion Scholastic Open",
+        "event": "2026 PSO Prelims - Round 2",
+        "date": "2026-04-16",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Sonia Sotomayor HS",
+            "score": 92.675
+          },
+          {
+            "rank": 2,
+            "group": "Auburn HS (AL)",
+            "score": 92.375
+          },
+          {
+            "rank": 3,
+            "group": "West Shore School District",
+            "score": 90.375
+          },
+          {
+            "rank": 4,
+            "group": "Centerville HS",
+            "score": 90.313
+          },
+          {
+            "rank": 5,
+            "group": "Eden Prairie HS",
+            "score": 87.925
+          },
+          {
+            "rank": 6,
+            "group": "North Penn HS",
+            "score": 87.688
+          },
+          {
+            "rank": 7,
+            "group": "Chisholm Trail HS",
+            "score": 87.388
+          },
+          {
+            "rank": 8,
+            "group": "Noblesville HS",
+            "score": 87.35
+          },
+          {
+            "rank": 9,
+            "group": "Chattahoochee HS",
+            "score": 87.1
+          },
+          {
+            "rank": 10,
+            "group": "Spring-Ford HS",
+            "score": 86.2
+          },
+          {
+            "rank": 11,
+            "group": "Hernando HS",
+            "score": 83.975
+          },
+          {
+            "rank": 12,
+            "group": "Warren Central HS (IN)",
+            "score": 82.605
+          },
+          {
+            "rank": 13,
+            "group": "Plainfield HS (IN)",
+            "score": 79.275
+          }
+        ]
+      }
+    ],
+    "Percussion Scholastic World": [
+      {
+        "class": "Percussion Scholastic World",
+        "event": "2026 PSW Prelims - Round 1",
+        "date": "2026-04-16",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Ayala HS",
+            "score": 95.65
+          },
+          {
+            "rank": 2,
+            "group": "Vista Murrieta HS",
+            "score": 94.35
+          },
+          {
+            "rank": 3,
+            "group": "Bridgeland HS",
+            "score": 92.85
+          },
+          {
+            "rank": 4,
+            "group": "Burleson Centennial HS",
+            "score": 92.225
+          },
+          {
+            "rank": 5,
+            "group": "Center Grove HS",
+            "score": 89.125
+          },
+          {
+            "rank": 6,
+            "group": "Etiwanda HS",
+            "score": 88.65
+          },
+          {
+            "rank": 7,
+            "group": "Broken Arrow HS",
+            "score": 87.95
+          },
+          {
+            "rank": 8,
+            "group": "James Logan HS",
+            "score": 87.7
+          },
+          {
+            "rank": 9,
+            "group": "Franklin Central HS",
+            "score": 86.725
+          },
+          {
+            "rank": 10,
+            "group": "Fishers HS",
+            "score": 86.4
+          },
+          {
+            "rank": 11,
+            "group": "Greenwood HS",
+            "score": 84.125
+          },
+          {
+            "rank": 12,
+            "group": "Walled Lake Consolidated Schools",
+            "score": 83.475
+          },
+          {
+            "rank": 13,
+            "group": "Milton HS",
+            "score": 80.575
+          },
+          {
+            "rank": 14,
+            "group": "Mt. Juliet HS",
+            "score": 78.545
+          }
+        ]
+      }
+    ],
+    "Percussion Independent A": [],
+    "Percussion Independent Open": [
+      {
+        "class": "Percussion Independent Open",
+        "event": "2026 PIO Prelims - Round 1",
+        "date": "2026-04-16",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Paradigm Percussion",
+            "score": 90.55
+          },
+          {
+            "rank": 2,
+            "group": "Motor City Percussion",
+            "score": 88.6
+          },
+          {
+            "rank": 3,
+            "group": "OCI",
+            "score": 87.95
+          },
+          {
+            "rank": 4,
+            "group": "Old Line Independent Percussion",
+            "score": 87.6
+          },
+          {
+            "rank": 5,
+            "group": "Modulation Z",
+            "score": 87.275
+          },
+          {
+            "rank": 6,
+            "group": "River City Rhythm",
+            "score": 86.938
+          },
+          {
+            "rank": 7,
+            "group": "Charles Towne Percussion",
+            "score": 81.9
+          },
+          {
+            "rank": 8,
+            "group": "Tri-City Percussion",
+            "score": 81.275
+          },
+          {
+            "rank": 9,
+            "group": "Rift Percussion",
+            "score": 78.888
+          }
+        ]
+      },
+      {
+        "class": "Percussion Independent Open",
+        "event": "2026 PIO Prelims - Round 2",
+        "date": "2026-04-16",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Veritas",
+            "score": 95.275
+          },
+          {
+            "rank": 2,
+            "group": "Q2",
+            "score": 94.375
+          },
+          {
+            "rank": 3,
+            "group": "Spectre Percussion",
+            "score": 94.35
+          },
+          {
+            "rank": 4,
+            "group": "Imperial Dynasty",
+            "score": 88.45
+          },
+          {
+            "rank": 5,
+            "group": "Matrix Open",
+            "score": 88.325
+          },
+          {
+            "rank": 6,
+            "group": "Vision Percussion",
+            "score": 85.4
+          },
+          {
+            "rank": 7,
+            "group": "Dakota Combined Schools",
+            "score": 82.338
+          },
+          {
+            "rank": 8,
+            "group": "Huron Valley Percussion",
+            "score": 81.738
+          },
+          {
+            "rank": 9,
+            "group": "Kannapolis Independent",
+            "score": 79.95
+          }
+        ]
+      }
+    ],
+    "Percussion Independent World": []
+  }
+}
