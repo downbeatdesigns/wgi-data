@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-16T21:31:19",
+  "generated": "2026-04-16T23:08:13",
   "date": "2026-04-16",
   "season": 2026,
   "sport": "percussion",
@@ -1232,6 +1232,96 @@
             "rank": 16,
             "group": "Rise Percussion",
             "score": 79.988
+          }
+        ]
+      },
+      {
+        "class": "Percussion Independent World",
+        "event": "2026 PIW Prelims - Round 2",
+        "date": "2026-04-16",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Rhythm X",
+            "score": 98.35
+          },
+          {
+            "rank": 2,
+            "group": "Pulse Percussion",
+            "score": 97.575
+          },
+          {
+            "rank": 3,
+            "group": "Music City Mystique",
+            "score": 95.663
+          },
+          {
+            "rank": 4,
+            "group": "Infinity",
+            "score": 95.513
+          },
+          {
+            "rank": 5,
+            "group": "POW Percussion",
+            "score": 90.975
+          },
+          {
+            "rank": 6,
+            "group": "Dark Sky Percussion",
+            "score": 90.65
+          },
+          {
+            "rank": 7,
+            "group": "Infinity 2",
+            "score": 89.713
+          },
+          {
+            "rank": 8,
+            "group": "Atlanta Quest",
+            "score": 89.688
+          },
+          {
+            "rank": 9,
+            "group": "United Percussion",
+            "score": 87.925
+          },
+          {
+            "rank": 10,
+            "group": "ConneXus",
+            "score": 87.325
+          },
+          {
+            "rank": 11,
+            "group": "Meraki",
+            "score": 86.863
+          },
+          {
+            "rank": 12,
+            "group": "Vigilantes Indoor Percussion",
+            "score": 85.588
+          },
+          {
+            "rank": 13,
+            "group": "Blue Knights",
+            "score": 84.225
+          },
+          {
+            "rank": 14,
+            "group": "Audio Theater",
+            "score": 83.85
+          },
+          {
+            "rank": 15,
+            "group": "Instinct",
+            "score": 81.975
+          },
+          {
+            "rank": 16,
+            "group": "Resistance Indoor Percussion",
+            "score": 79.525
           }
         ]
       }
