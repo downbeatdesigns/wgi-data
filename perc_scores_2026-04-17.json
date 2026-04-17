@@ -1,0 +1,105 @@
+{
+  "generated": "2026-04-17T11:55:25",
+  "date": "2026-04-17",
+  "season": 2026,
+  "sport": "percussion",
+  "summary": {
+    "Percussion Scholastic A": [
+      {
+        "class": "Percussion Scholastic A",
+        "event": "2026 PSA Semi-Finals - Round 1",
+        "date": "2026-04-17",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Alpharetta HS",
+            "score": 96.463
+          },
+          {
+            "rank": 2,
+            "group": "Kings HS",
+            "score": 93.888
+          },
+          {
+            "rank": 3,
+            "group": "Jordan-Elbridge HS",
+            "score": 93.313
+          },
+          {
+            "rank": 4,
+            "group": "E.D. White Catholic HS",
+            "score": 91.1
+          },
+          {
+            "rank": 5,
+            "group": "Temple City HS",
+            "score": 89.788
+          },
+          {
+            "rank": 6,
+            "group": "Pearl HS",
+            "score": 89.325
+          },
+          {
+            "rank": 7,
+            "group": "Central HS (TX)",
+            "score": 88.725
+          },
+          {
+            "rank": 8,
+            "group": "Fleming Island HS",
+            "score": 88.613
+          },
+          {
+            "rank": 9,
+            "group": "Choctawhatchee HS",
+            "score": 87.95
+          },
+          {
+            "rank": 10,
+            "group": "Kickapoo HS",
+            "score": 86.875
+          },
+          {
+            "rank": 11,
+            "group": "Monarch HS",
+            "score": 86.825
+          },
+          {
+            "rank": 12,
+            "group": "Highland Regional HS",
+            "score": 85.563
+          },
+          {
+            "rank": 13,
+            "group": "Central Dauphin HS",
+            "score": 84.588
+          },
+          {
+            "rank": 14,
+            "group": "Downingtown East HS",
+            "score": 83.175
+          },
+          {
+            "rank": 15,
+            "group": "Bridgewater Raritan HS",
+            "score": 81.125
+          },
+          {
+            "rank": 16,
+            "group": "Mansfield HS",
+            "score": 80.3
+          }
+        ]
+      }
+    ],
+    "Percussion Scholastic Open": [],
+    "Percussion Scholastic World": [],
+    "Percussion Independent A": [],
+    "Percussion Independent Open": [],
+    "Percussion Independent World": []
+  }
+}
