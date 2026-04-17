@@ -2,366 +2,2177 @@
   "generated": "2026-04-16",
   "prelims": {
     "PSA": [
-      {"s":"Green Level HS","r":1,"t":"9:00 AM"},
-      {"s":"Central HS (TX)","r":1,"t":"9:09 AM"},
-      {"s":"Central Crossing HS","r":1,"t":"9:18 AM"},
-      {"s":"Terre Haute North HS","r":1,"t":"9:27 AM"},
-      {"s":"Central Dauphin HS","r":1,"t":"9:36 AM"},
-      {"s":"Xenia HS","r":1,"t":"9:45 AM"},
-      {"s":"Fleming Island HS","r":1,"t":"9:54 AM"},
-      {"s":"Kings HS","r":1,"t":"10:10 AM"},
-      {"s":"Bellbrook HS","r":1,"t":"10:19 AM"},
-      {"s":"Temple City HS","r":1,"t":"10:28 AM"},
-      {"s":"Jordan-Elbridge HS","r":1,"t":"10:37 AM"},
-      {"s":"Downingtown East HS","r":1,"t":"10:46 AM"},
-      {"s":"Kickapoo HS","r":1,"t":"10:55 AM"},
-      {"s":"Monarch HS","r":1,"t":"11:04 AM"},
-      {"s":"Bridgewater Raritan HS","r":2,"t":"11:29 AM"},
-      {"s":"Lakeway Christian Academy","r":2,"t":"11:38 AM"},
-      {"s":"Upper Moreland HS","r":2,"t":"11:47 AM"},
-      {"s":"Dennis-Yarmouth HS","r":2,"t":"11:56 AM"},
-      {"s":"Highland Regional HS","r":2,"t":"12:05 PM"},
-      {"s":"Stoneman Douglas HS","r":2,"t":"12:14 PM"},
-      {"s":"Mansfield HS","r":2,"t":"12:30 PM"},
-      {"s":"Choctawhatchee HS","r":2,"t":"12:39 PM"},
-      {"s":"Perkiomen Valley HS","r":2,"t":"12:48 PM"},
-      {"s":"E.D. White Catholic HS","r":2,"t":"12:57 PM"},
-      {"s":"Osseo Area Combined Schools","r":2,"t":"1:06 PM"},
-      {"s":"Pearl HS","r":2,"t":"1:15 PM"},
-      {"s":"Alpharetta HS","r":2,"t":"1:24 PM"},
-      {"s":"East Coweta HS","r":3,"t":"2:15 PM"},
-      {"s":"Ponte Vedra HS","r":3,"t":"2:24 PM"},
-      {"s":"Lake Orion HS","r":3,"t":"2:33 PM"},
-      {"s":"Hardin Valley Academy","r":3,"t":"2:42 PM"},
-      {"s":"Sycamore HS","r":3,"t":"2:51 PM"},
-      {"s":"Unionville HS","r":3,"t":"3:00 PM"},
-      {"s":"Olentangy Liberty HS","r":3,"t":"3:09 PM"},
-      {"s":"Liverpool HS","r":3,"t":"3:25 PM"},
-      {"s":"Decatur Central HS","r":3,"t":"3:34 PM"},
-      {"s":"Enloe Magnet HS","r":3,"t":"3:43 PM"},
-      {"s":"North Allegheny HS","r":3,"t":"3:52 PM"},
-      {"s":"Starkville HS","r":3,"t":"4:01 PM"},
-      {"s":"Findlay HS","r":3,"t":"4:10 PM"},
-      {"s":"Troy HS","r":3,"t":"4:19 PM"},
-      {"s":"Ross HS","r":4,"t":"5:10 PM"},
-      {"s":"Springboro HS","r":4,"t":"5:19 PM"},
-      {"s":"John C. Birdlebough HS","r":4,"t":"5:28 PM"},
-      {"s":"Glencoe HS","r":4,"t":"5:37 PM"},
-      {"s":"Warren Central HS","r":4,"t":"5:46 PM"},
-      {"s":"South Albany HS","r":4,"t":"5:55 PM"},
-      {"s":"Hamilton Southeastern HS","r":4,"t":"6:04 PM"},
-      {"s":"Weatherford HS","r":4,"t":"6:13 PM"},
-      {"s":"Columbus HS","r":4,"t":"6:30 PM"},
-      {"s":"New Hartford HS","r":4,"t":"6:39 PM"},
-      {"s":"Live Oak HS","r":4,"t":"6:48 PM"},
-      {"s":"Williams Field HS","r":4,"t":"6:57 PM"},
-      {"s":"Owen J Roberts HS","r":4,"t":"7:06 PM"},
-      {"s":"Everett HS","r":4,"t":"7:15 PM"},
-      {"s":"Oak Grove HS","r":4,"t":"7:24 PM"}
+      {
+        "s": "Green Level HS",
+        "r": 1,
+        "t": "9:00 AM"
+      },
+      {
+        "s": "Central HS (TX)",
+        "r": 1,
+        "t": "9:09 AM"
+      },
+      {
+        "s": "Central Crossing HS",
+        "r": 1,
+        "t": "9:18 AM"
+      },
+      {
+        "s": "Terre Haute North HS",
+        "r": 1,
+        "t": "9:27 AM"
+      },
+      {
+        "s": "Central Dauphin HS",
+        "r": 1,
+        "t": "9:36 AM"
+      },
+      {
+        "s": "Xenia HS",
+        "r": 1,
+        "t": "9:45 AM"
+      },
+      {
+        "s": "Fleming Island HS",
+        "r": 1,
+        "t": "9:54 AM"
+      },
+      {
+        "s": "Kings HS",
+        "r": 1,
+        "t": "10:10 AM"
+      },
+      {
+        "s": "Bellbrook HS",
+        "r": 1,
+        "t": "10:19 AM"
+      },
+      {
+        "s": "Temple City HS",
+        "r": 1,
+        "t": "10:28 AM"
+      },
+      {
+        "s": "Jordan-Elbridge HS",
+        "r": 1,
+        "t": "10:37 AM"
+      },
+      {
+        "s": "Downingtown East HS",
+        "r": 1,
+        "t": "10:46 AM"
+      },
+      {
+        "s": "Kickapoo HS",
+        "r": 1,
+        "t": "10:55 AM"
+      },
+      {
+        "s": "Monarch HS",
+        "r": 1,
+        "t": "11:04 AM"
+      },
+      {
+        "s": "Bridgewater Raritan HS",
+        "r": 2,
+        "t": "11:29 AM"
+      },
+      {
+        "s": "Lakeway Christian Academy",
+        "r": 2,
+        "t": "11:38 AM"
+      },
+      {
+        "s": "Upper Moreland HS",
+        "r": 2,
+        "t": "11:47 AM"
+      },
+      {
+        "s": "Dennis-Yarmouth HS",
+        "r": 2,
+        "t": "11:56 AM"
+      },
+      {
+        "s": "Highland Regional HS",
+        "r": 2,
+        "t": "12:05 PM"
+      },
+      {
+        "s": "Stoneman Douglas HS",
+        "r": 2,
+        "t": "12:14 PM"
+      },
+      {
+        "s": "Mansfield HS",
+        "r": 2,
+        "t": "12:30 PM"
+      },
+      {
+        "s": "Choctawhatchee HS",
+        "r": 2,
+        "t": "12:39 PM"
+      },
+      {
+        "s": "Perkiomen Valley HS",
+        "r": 2,
+        "t": "12:48 PM"
+      },
+      {
+        "s": "E.D. White Catholic HS",
+        "r": 2,
+        "t": "12:57 PM"
+      },
+      {
+        "s": "Osseo Area Combined Schools",
+        "r": 2,
+        "t": "1:06 PM"
+      },
+      {
+        "s": "Pearl HS",
+        "r": 2,
+        "t": "1:15 PM"
+      },
+      {
+        "s": "Alpharetta HS",
+        "r": 2,
+        "t": "1:24 PM"
+      },
+      {
+        "s": "East Coweta HS",
+        "r": 3,
+        "t": "2:15 PM"
+      },
+      {
+        "s": "Ponte Vedra HS",
+        "r": 3,
+        "t": "2:24 PM"
+      },
+      {
+        "s": "Lake Orion HS",
+        "r": 3,
+        "t": "2:33 PM"
+      },
+      {
+        "s": "Hardin Valley Academy",
+        "r": 3,
+        "t": "2:42 PM"
+      },
+      {
+        "s": "Sycamore HS",
+        "r": 3,
+        "t": "2:51 PM"
+      },
+      {
+        "s": "Unionville HS",
+        "r": 3,
+        "t": "3:00 PM"
+      },
+      {
+        "s": "Olentangy Liberty HS",
+        "r": 3,
+        "t": "3:09 PM"
+      },
+      {
+        "s": "Liverpool HS",
+        "r": 3,
+        "t": "3:25 PM"
+      },
+      {
+        "s": "Decatur Central HS",
+        "r": 3,
+        "t": "3:34 PM"
+      },
+      {
+        "s": "Enloe Magnet HS",
+        "r": 3,
+        "t": "3:43 PM"
+      },
+      {
+        "s": "North Allegheny HS",
+        "r": 3,
+        "t": "3:52 PM"
+      },
+      {
+        "s": "Starkville HS",
+        "r": 3,
+        "t": "4:01 PM"
+      },
+      {
+        "s": "Findlay HS",
+        "r": 3,
+        "t": "4:10 PM"
+      },
+      {
+        "s": "Troy HS",
+        "r": 3,
+        "t": "4:19 PM"
+      },
+      {
+        "s": "Ross HS",
+        "r": 4,
+        "t": "5:10 PM"
+      },
+      {
+        "s": "Springboro HS",
+        "r": 4,
+        "t": "5:19 PM"
+      },
+      {
+        "s": "John C. Birdlebough HS",
+        "r": 4,
+        "t": "5:28 PM"
+      },
+      {
+        "s": "Glencoe HS",
+        "r": 4,
+        "t": "5:37 PM"
+      },
+      {
+        "s": "Warren Central HS",
+        "r": 4,
+        "t": "5:46 PM"
+      },
+      {
+        "s": "South Albany HS",
+        "r": 4,
+        "t": "5:55 PM"
+      },
+      {
+        "s": "Hamilton Southeastern HS",
+        "r": 4,
+        "t": "6:04 PM"
+      },
+      {
+        "s": "Weatherford HS",
+        "r": 4,
+        "t": "6:13 PM"
+      },
+      {
+        "s": "Columbus HS",
+        "r": 4,
+        "t": "6:30 PM"
+      },
+      {
+        "s": "New Hartford HS",
+        "r": 4,
+        "t": "6:39 PM"
+      },
+      {
+        "s": "Live Oak HS",
+        "r": 4,
+        "t": "6:48 PM"
+      },
+      {
+        "s": "Williams Field HS",
+        "r": 4,
+        "t": "6:57 PM"
+      },
+      {
+        "s": "Owen J Roberts HS",
+        "r": 4,
+        "t": "7:06 PM"
+      },
+      {
+        "s": "Everett HS",
+        "r": 4,
+        "t": "7:15 PM"
+      },
+      {
+        "s": "Oak Grove HS",
+        "r": 4,
+        "t": "7:24 PM"
+      }
     ],
     "PIA": [
-      {"s":"NorthCoast Academy","r":1,"t":"4:35 PM"},
-      {"s":"Spark Percussion","r":1,"t":"4:44 PM"},
-      {"s":"Pi Percussion Inc.","r":1,"t":"4:53 PM"},
-      {"s":"Carolina Storm Indoor Percussion","r":1,"t":"5:02 PM"},
-      {"s":"Vortex Percussion","r":1,"t":"5:11 PM"},
-      {"s":"Breakwater Performing Arts","r":1,"t":"5:20 PM"},
-      {"s":"Albemarle County Indoor Percussion","r":1,"t":"5:29 PM"},
-      {"s":"Francis Howell Percussion","r":1,"t":"5:38 PM"},
-      {"s":"Saints Indoor Percussion","r":1,"t":"5:47 PM"},
-      {"s":"Legacy Percussion","r":1,"t":"5:56 PM"},
-      {"s":"Palmetto Indoor Theatre","r":1,"t":"6:05 PM"},
-      {"s":"Ravenwood Indoor Percussion","r":2,"t":"7:00 PM"},
-      {"s":"Horizon Percussion","r":2,"t":"7:09 PM"},
-      {"s":"East Mississippi Em-pact","r":2,"t":"7:18 PM"},
-      {"s":"North Star Independent","r":2,"t":"7:27 PM"},
-      {"s":"IGNITE Winter Percussion","r":2,"t":"7:36 PM"},
-      {"s":"Nomad Indoor","r":2,"t":"7:45 PM"},
-      {"s":"Lake Effect Percussion","r":2,"t":"7:54 PM"},
-      {"s":"Revelation A","r":2,"t":"8:03 PM"},
-      {"s":"Boise Gems Independent","r":2,"t":"8:12 PM"},
-      {"s":"202 Indoor Percussion","r":2,"t":"8:21 PM"},
-      {"s":"South County Combined","r":2,"t":"8:30 PM"}
+      {
+        "s": "NorthCoast Academy",
+        "r": 1,
+        "t": "4:35 PM"
+      },
+      {
+        "s": "Spark Percussion",
+        "r": 1,
+        "t": "4:44 PM"
+      },
+      {
+        "s": "Pi Percussion Inc.",
+        "r": 1,
+        "t": "4:53 PM"
+      },
+      {
+        "s": "Carolina Storm Indoor Percussion",
+        "r": 1,
+        "t": "5:02 PM"
+      },
+      {
+        "s": "Vortex Percussion",
+        "r": 1,
+        "t": "5:11 PM"
+      },
+      {
+        "s": "Breakwater Performing Arts",
+        "r": 1,
+        "t": "5:20 PM"
+      },
+      {
+        "s": "Albemarle County Indoor Percussion",
+        "r": 1,
+        "t": "5:29 PM"
+      },
+      {
+        "s": "Francis Howell Percussion",
+        "r": 1,
+        "t": "5:38 PM"
+      },
+      {
+        "s": "Saints Indoor Percussion",
+        "r": 1,
+        "t": "5:47 PM"
+      },
+      {
+        "s": "Legacy Percussion",
+        "r": 1,
+        "t": "5:56 PM"
+      },
+      {
+        "s": "Palmetto Indoor Theatre",
+        "r": 1,
+        "t": "6:05 PM"
+      },
+      {
+        "s": "Ravenwood Indoor Percussion",
+        "r": 2,
+        "t": "7:00 PM"
+      },
+      {
+        "s": "Horizon Percussion",
+        "r": 2,
+        "t": "7:09 PM"
+      },
+      {
+        "s": "East Mississippi Em-pact",
+        "r": 2,
+        "t": "7:18 PM"
+      },
+      {
+        "s": "North Star Independent",
+        "r": 2,
+        "t": "7:27 PM"
+      },
+      {
+        "s": "IGNITE Winter Percussion",
+        "r": 2,
+        "t": "7:36 PM"
+      },
+      {
+        "s": "Nomad Indoor",
+        "r": 2,
+        "t": "7:45 PM"
+      },
+      {
+        "s": "Lake Effect Percussion",
+        "r": 2,
+        "t": "7:54 PM"
+      },
+      {
+        "s": "Revelation A",
+        "r": 2,
+        "t": "8:03 PM"
+      },
+      {
+        "s": "Boise Gems Independent",
+        "r": 2,
+        "t": "8:12 PM"
+      },
+      {
+        "s": "202 Indoor Percussion",
+        "r": 2,
+        "t": "8:21 PM"
+      },
+      {
+        "s": "South County Combined",
+        "r": 2,
+        "t": "8:30 PM"
+      }
     ],
     "PSO": [
-      {"s":"Mechanicsburg HS","r":1,"t":"9:00 AM"},
-      {"s":"Southlake Carroll HS","r":1,"t":"9:10 AM"},
-      {"s":"Germantown HS","r":1,"t":"9:20 AM"},
-      {"s":"Westfield HS (IN)","r":1,"t":"9:30 AM"},
-      {"s":"South Forsyth HS","r":1,"t":"9:40 AM"},
-      {"s":"Beavercreek HS","r":1,"t":"9:50 AM"},
-      {"s":"Arbor View HS","r":1,"t":"10:00 AM"},
-      {"s":"Saginaw HS","r":1,"t":"10:20 AM"},
-      {"s":"Papillion-La Vista South HS","r":1,"t":"10:30 AM"},
-      {"s":"Hudsonville HS","r":1,"t":"10:40 AM"},
-      {"s":"Jordan HS","r":1,"t":"10:50 AM"},
-      {"s":"Brandon Valley HS","r":1,"t":"11:00 AM"},
-      {"s":"Central Lafourche HS","r":1,"t":"11:10 AM"},
-      {"s":"Plainfield HS (IN)","r":2,"t":"11:30 AM"},
-      {"s":"Hernando HS","r":2,"t":"11:40 AM"},
-      {"s":"Sonia Sotomayor HS","r":2,"t":"11:50 AM"},
-      {"s":"Eden Prairie HS","r":2,"t":"12:00 PM"},
-      {"s":"Warren Central HS (IN)","r":2,"t":"12:10 PM"},
-      {"s":"Noblesville HS","r":2,"t":"12:20 PM"},
-      {"s":"West Shore School District","r":2,"t":"12:30 PM"},
-      {"s":"Chattahoochee HS","r":2,"t":"12:50 PM"},
-      {"s":"Chisholm Trail HS","r":2,"t":"1:00 PM"},
-      {"s":"North Penn HS","r":2,"t":"1:10 PM"},
-      {"s":"Spring-Ford HS","r":2,"t":"1:20 PM"},
-      {"s":"Centerville HS","r":2,"t":"1:30 PM"},
-      {"s":"Auburn HS (AL)","r":2,"t":"1:40 PM"},
-      {"s":"Tupelo HS","r":3,"t":"2:30 PM"},
-      {"s":"Plymouth-Canton Educational Park","r":3,"t":"2:40 PM"},
-      {"s":"Victor HS","r":3,"t":"2:50 PM"},
-      {"s":"Goshen HS","r":3,"t":"3:00 PM"},
-      {"s":"Legacy HS","r":3,"t":"3:10 PM"},
-      {"s":"Zionsville Community HS","r":3,"t":"3:20 PM"},
-      {"s":"New Milford HS","r":3,"t":"3:30 PM"},
-      {"s":"Norwalk HS","r":3,"t":"3:50 PM"},
-      {"s":"Boswell HS","r":3,"t":"4:00 PM"},
-      {"s":"Kettering Fairmont HS","r":3,"t":"4:10 PM"},
-      {"s":"Greenfield-Central HS","r":3,"t":"4:20 PM"},
-      {"s":"Southport HS","r":3,"t":"4:30 PM"},
-      {"s":"Southmoore HS","r":3,"t":"4:40 PM"},
-      {"s":"Trumbull HS","r":4,"t":"5:30 PM"},
-      {"s":"Irondale Combined Schools","r":4,"t":"5:40 PM"},
-      {"s":"Thomas Jefferson HS","r":4,"t":"5:50 PM"},
-      {"s":"Hempfield HS","r":4,"t":"6:00 PM"},
-      {"s":"Victor J. Andrew HS","r":4,"t":"6:10 PM"},
-      {"s":"Pace HS","r":4,"t":"6:20 PM"},
-      {"s":"Sparkman HS","r":4,"t":"6:30 PM"},
-      {"s":"Gulfport HS","r":4,"t":"6:50 PM"},
-      {"s":"Franklin Community HS","r":4,"t":"7:00 PM"},
-      {"s":"Pacifica HS","r":4,"t":"7:10 PM"},
-      {"s":"Downingtown West HS","r":4,"t":"7:20 PM"},
-      {"s":"Bob Jones HS","r":4,"t":"7:30 PM"},
-      {"s":"Halls HS","r":4,"t":"7:40 PM"},
-      {"s":"Northview HS","r":4,"t":"7:50 PM"}
+      {
+        "s": "Mechanicsburg HS",
+        "r": 1,
+        "t": "9:00 AM"
+      },
+      {
+        "s": "Southlake Carroll HS",
+        "r": 1,
+        "t": "9:10 AM"
+      },
+      {
+        "s": "Germantown HS",
+        "r": 1,
+        "t": "9:20 AM"
+      },
+      {
+        "s": "Westfield HS (IN)",
+        "r": 1,
+        "t": "9:30 AM"
+      },
+      {
+        "s": "South Forsyth HS",
+        "r": 1,
+        "t": "9:40 AM"
+      },
+      {
+        "s": "Beavercreek HS",
+        "r": 1,
+        "t": "9:50 AM"
+      },
+      {
+        "s": "Arbor View HS",
+        "r": 1,
+        "t": "10:00 AM"
+      },
+      {
+        "s": "Saginaw HS",
+        "r": 1,
+        "t": "10:20 AM"
+      },
+      {
+        "s": "Papillion-La Vista South HS",
+        "r": 1,
+        "t": "10:30 AM"
+      },
+      {
+        "s": "Hudsonville HS",
+        "r": 1,
+        "t": "10:40 AM"
+      },
+      {
+        "s": "Jordan HS",
+        "r": 1,
+        "t": "10:50 AM"
+      },
+      {
+        "s": "Brandon Valley HS",
+        "r": 1,
+        "t": "11:00 AM"
+      },
+      {
+        "s": "Central Lafourche HS",
+        "r": 1,
+        "t": "11:10 AM"
+      },
+      {
+        "s": "Plainfield HS (IN)",
+        "r": 2,
+        "t": "11:30 AM"
+      },
+      {
+        "s": "Hernando HS",
+        "r": 2,
+        "t": "11:40 AM"
+      },
+      {
+        "s": "Sonia Sotomayor HS",
+        "r": 2,
+        "t": "11:50 AM"
+      },
+      {
+        "s": "Eden Prairie HS",
+        "r": 2,
+        "t": "12:00 PM"
+      },
+      {
+        "s": "Warren Central HS (IN)",
+        "r": 2,
+        "t": "12:10 PM"
+      },
+      {
+        "s": "Noblesville HS",
+        "r": 2,
+        "t": "12:20 PM"
+      },
+      {
+        "s": "West Shore School District",
+        "r": 2,
+        "t": "12:30 PM"
+      },
+      {
+        "s": "Chattahoochee HS",
+        "r": 2,
+        "t": "12:50 PM"
+      },
+      {
+        "s": "Chisholm Trail HS",
+        "r": 2,
+        "t": "1:00 PM"
+      },
+      {
+        "s": "North Penn HS",
+        "r": 2,
+        "t": "1:10 PM"
+      },
+      {
+        "s": "Spring-Ford HS",
+        "r": 2,
+        "t": "1:20 PM"
+      },
+      {
+        "s": "Centerville HS",
+        "r": 2,
+        "t": "1:30 PM"
+      },
+      {
+        "s": "Auburn HS (AL)",
+        "r": 2,
+        "t": "1:40 PM"
+      },
+      {
+        "s": "Tupelo HS",
+        "r": 3,
+        "t": "2:30 PM"
+      },
+      {
+        "s": "Plymouth-Canton Educational Park",
+        "r": 3,
+        "t": "2:40 PM"
+      },
+      {
+        "s": "Victor HS",
+        "r": 3,
+        "t": "2:50 PM"
+      },
+      {
+        "s": "Goshen HS",
+        "r": 3,
+        "t": "3:00 PM"
+      },
+      {
+        "s": "Legacy HS",
+        "r": 3,
+        "t": "3:10 PM"
+      },
+      {
+        "s": "Zionsville Community HS",
+        "r": 3,
+        "t": "3:20 PM"
+      },
+      {
+        "s": "New Milford HS",
+        "r": 3,
+        "t": "3:30 PM"
+      },
+      {
+        "s": "Norwalk HS",
+        "r": 3,
+        "t": "3:50 PM"
+      },
+      {
+        "s": "Boswell HS",
+        "r": 3,
+        "t": "4:00 PM"
+      },
+      {
+        "s": "Kettering Fairmont HS",
+        "r": 3,
+        "t": "4:10 PM"
+      },
+      {
+        "s": "Greenfield-Central HS",
+        "r": 3,
+        "t": "4:20 PM"
+      },
+      {
+        "s": "Southport HS",
+        "r": 3,
+        "t": "4:30 PM"
+      },
+      {
+        "s": "Southmoore HS",
+        "r": 3,
+        "t": "4:40 PM"
+      },
+      {
+        "s": "Trumbull HS",
+        "r": 4,
+        "t": "5:30 PM"
+      },
+      {
+        "s": "Irondale Combined Schools",
+        "r": 4,
+        "t": "5:40 PM"
+      },
+      {
+        "s": "Thomas Jefferson HS",
+        "r": 4,
+        "t": "5:50 PM"
+      },
+      {
+        "s": "Hempfield HS",
+        "r": 4,
+        "t": "6:00 PM"
+      },
+      {
+        "s": "Victor J. Andrew HS",
+        "r": 4,
+        "t": "6:10 PM"
+      },
+      {
+        "s": "Pace HS",
+        "r": 4,
+        "t": "6:20 PM"
+      },
+      {
+        "s": "Sparkman HS",
+        "r": 4,
+        "t": "6:30 PM"
+      },
+      {
+        "s": "Gulfport HS",
+        "r": 4,
+        "t": "6:50 PM"
+      },
+      {
+        "s": "Franklin Community HS",
+        "r": 4,
+        "t": "7:00 PM"
+      },
+      {
+        "s": "Pacifica HS",
+        "r": 4,
+        "t": "7:10 PM"
+      },
+      {
+        "s": "Downingtown West HS",
+        "r": 4,
+        "t": "7:20 PM"
+      },
+      {
+        "s": "Bob Jones HS",
+        "r": 4,
+        "t": "7:30 PM"
+      },
+      {
+        "s": "Halls HS",
+        "r": 4,
+        "t": "7:40 PM"
+      },
+      {
+        "s": "Northview HS",
+        "r": 4,
+        "t": "7:50 PM"
+      }
     ],
     "PIO": [
-      {"s":"OCI","r":1,"t":"9:00 AM"},
-      {"s":"Tri-City Percussion","r":1,"t":"9:10 AM"},
-      {"s":"Modulation Z","r":1,"t":"9:20 AM"},
-      {"s":"Motor City Percussion","r":1,"t":"9:30 AM"},
-      {"s":"Paradigm Percussion","r":1,"t":"9:40 AM"},
-      {"s":"Charles Towne Percussion","r":1,"t":"9:50 AM"},
-      {"s":"River City Rhythm","r":1,"t":"10:00 AM"},
-      {"s":"Rift Percussion","r":1,"t":"10:10 AM"},
-      {"s":"Old Line Independent Percussion","r":1,"t":"10:20 AM"},
-      {"s":"Kannapolis Independent","r":2,"t":"10:45 AM"},
-      {"s":"Veritas","r":2,"t":"10:55 AM"},
-      {"s":"Dakota Combined Schools","r":2,"t":"11:05 AM"},
-      {"s":"Spectre Percussion","r":2,"t":"11:15 AM"},
-      {"s":"Imperial Dynasty","r":2,"t":"11:25 AM"},
-      {"s":"Huron Valley Percussion","r":2,"t":"11:35 AM"},
-      {"s":"Matrix Open","r":2,"t":"11:45 AM"},
-      {"s":"Vision Percussion","r":2,"t":"11:55 AM"},
-      {"s":"Q2","r":2,"t":"12:05 PM"},
-      {"s":"Convergence Indoor Percussion","r":3,"t":"1:00 PM"},
-      {"s":"Rock Ridge HS Combined","r":3,"t":"1:10 PM"},
-      {"s":"Grandville Independent","r":3,"t":"1:20 PM"},
-      {"s":"Siege Percussion","r":3,"t":"1:30 PM"},
-      {"s":"Buckhorn Percussion","r":3,"t":"1:40 PM"},
-      {"s":"Bakersfield College","r":3,"t":"1:50 PM"},
-      {"s":"UTSA","r":3,"t":"2:00 PM"},
-      {"s":"Synergy","r":3,"t":"2:10 PM"},
-      {"s":"Sparta Indoor Percussion","r":3,"t":"2:20 PM"},
-      {"s":"Gold Spike Percussion","r":4,"t":"2:45 PM"},
-      {"s":"Breakthrough Indoor Percussion","r":4,"t":"2:55 PM"},
-      {"s":"United Percussion 2","r":4,"t":"3:05 PM"},
-      {"s":"Desert Vox","r":4,"t":"3:15 PM"},
-      {"s":"Revelation Open","r":4,"t":"3:25 PM"},
-      {"s":"Infinity 3","r":4,"t":"3:35 PM"},
-      {"s":"Cap City 2","r":4,"t":"3:45 PM"},
-      {"s":"Freedom Percussion","r":4,"t":"3:55 PM"},
-      {"s":"Lotus","r":4,"t":"4:05 PM"},
-      {"s":"Sun City Independent","r":4,"t":"4:15 PM"}
+      {
+        "s": "OCI",
+        "r": 1,
+        "t": "9:00 AM"
+      },
+      {
+        "s": "Tri-City Percussion",
+        "r": 1,
+        "t": "9:10 AM"
+      },
+      {
+        "s": "Modulation Z",
+        "r": 1,
+        "t": "9:20 AM"
+      },
+      {
+        "s": "Motor City Percussion",
+        "r": 1,
+        "t": "9:30 AM"
+      },
+      {
+        "s": "Paradigm Percussion",
+        "r": 1,
+        "t": "9:40 AM"
+      },
+      {
+        "s": "Charles Towne Percussion",
+        "r": 1,
+        "t": "9:50 AM"
+      },
+      {
+        "s": "River City Rhythm",
+        "r": 1,
+        "t": "10:00 AM"
+      },
+      {
+        "s": "Rift Percussion",
+        "r": 1,
+        "t": "10:10 AM"
+      },
+      {
+        "s": "Old Line Independent Percussion",
+        "r": 1,
+        "t": "10:20 AM"
+      },
+      {
+        "s": "Kannapolis Independent",
+        "r": 2,
+        "t": "10:45 AM"
+      },
+      {
+        "s": "Veritas",
+        "r": 2,
+        "t": "10:55 AM"
+      },
+      {
+        "s": "Dakota Combined Schools",
+        "r": 2,
+        "t": "11:05 AM"
+      },
+      {
+        "s": "Spectre Percussion",
+        "r": 2,
+        "t": "11:15 AM"
+      },
+      {
+        "s": "Imperial Dynasty",
+        "r": 2,
+        "t": "11:25 AM"
+      },
+      {
+        "s": "Huron Valley Percussion",
+        "r": 2,
+        "t": "11:35 AM"
+      },
+      {
+        "s": "Matrix Open",
+        "r": 2,
+        "t": "11:45 AM"
+      },
+      {
+        "s": "Vision Percussion",
+        "r": 2,
+        "t": "11:55 AM"
+      },
+      {
+        "s": "Q2",
+        "r": 2,
+        "t": "12:05 PM"
+      },
+      {
+        "s": "Convergence Indoor Percussion",
+        "r": 3,
+        "t": "1:00 PM"
+      },
+      {
+        "s": "Rock Ridge HS Combined",
+        "r": 3,
+        "t": "1:10 PM"
+      },
+      {
+        "s": "Grandville Independent",
+        "r": 3,
+        "t": "1:20 PM"
+      },
+      {
+        "s": "Siege Percussion",
+        "r": 3,
+        "t": "1:30 PM"
+      },
+      {
+        "s": "Buckhorn Percussion",
+        "r": 3,
+        "t": "1:40 PM"
+      },
+      {
+        "s": "Bakersfield College",
+        "r": 3,
+        "t": "1:50 PM"
+      },
+      {
+        "s": "UTSA",
+        "r": 3,
+        "t": "2:00 PM"
+      },
+      {
+        "s": "Synergy",
+        "r": 3,
+        "t": "2:10 PM"
+      },
+      {
+        "s": "Sparta Indoor Percussion",
+        "r": 3,
+        "t": "2:20 PM"
+      },
+      {
+        "s": "Gold Spike Percussion",
+        "r": 4,
+        "t": "2:45 PM"
+      },
+      {
+        "s": "Breakthrough Indoor Percussion",
+        "r": 4,
+        "t": "2:55 PM"
+      },
+      {
+        "s": "United Percussion 2",
+        "r": 4,
+        "t": "3:05 PM"
+      },
+      {
+        "s": "Desert Vox",
+        "r": 4,
+        "t": "3:15 PM"
+      },
+      {
+        "s": "Revelation Open",
+        "r": 4,
+        "t": "3:25 PM"
+      },
+      {
+        "s": "Infinity 3",
+        "r": 4,
+        "t": "3:35 PM"
+      },
+      {
+        "s": "Cap City 2",
+        "r": 4,
+        "t": "3:45 PM"
+      },
+      {
+        "s": "Freedom Percussion",
+        "r": 4,
+        "t": "3:55 PM"
+      },
+      {
+        "s": "Lotus",
+        "r": 4,
+        "t": "4:05 PM"
+      },
+      {
+        "s": "Sun City Independent",
+        "r": 4,
+        "t": "4:15 PM"
+      }
     ],
     "PSW": [
-      {"s":"Center Grove HS","r":1,"t":"9:00 AM"},
-      {"s":"James Logan HS","r":1,"t":"9:11 AM"},
-      {"s":"Milton HS","r":1,"t":"9:22 AM"},
-      {"s":"Fishers HS","r":1,"t":"9:33 AM"},
-      {"s":"Walled Lake Consolidated Schools","r":1,"t":"9:44 AM"},
-      {"s":"Mt. Juliet HS","r":1,"t":"9:55 AM"},
-      {"s":"Franklin Central HS","r":1,"t":"10:06 AM"},
-      {"s":"Burleson Centennial HS","r":1,"t":"10:25 AM"},
-      {"s":"Vista Murrieta HS","r":1,"t":"10:36 AM"},
-      {"s":"Broken Arrow HS","r":1,"t":"10:47 AM"},
-      {"s":"Etiwanda HS","r":1,"t":"10:58 AM"},
-      {"s":"Greenwood HS","r":1,"t":"11:09 AM"},
-      {"s":"Ayala HS","r":1,"t":"11:20 AM"},
-      {"s":"Bridgeland HS","r":1,"t":"11:31 AM"},
-      {"s":"Foothill HS","r":2,"t":"12:25 PM"},
-      {"s":"Fair Lawn HS","r":2,"t":"12:36 PM"},
-      {"s":"Clear Brook HS","r":2,"t":"12:47 PM"},
-      {"s":"Dorman HS","r":2,"t":"12:58 PM"},
-      {"s":"Avon HS","r":2,"t":"1:09 PM"},
-      {"s":"Brownsburg HS","r":2,"t":"1:20 PM"},
-      {"s":"Arcadia HS","r":2,"t":"1:40 PM"},
-      {"s":"Carroll HS","r":2,"t":"1:51 PM"},
-      {"s":"Buchanan HS","r":2,"t":"2:02 PM"},
-      {"s":"Chino Hills HS","r":2,"t":"2:13 PM"},
-      {"s":"Cy-Fair HS","r":2,"t":"2:24 PM"},
-      {"s":"Homestead HS","r":2,"t":"2:35 PM"},
-      {"s":"Saratoga HS","r":2,"t":"2:46 PM"}
+      {
+        "s": "Center Grove HS",
+        "r": 1,
+        "t": "9:00 AM"
+      },
+      {
+        "s": "James Logan HS",
+        "r": 1,
+        "t": "9:11 AM"
+      },
+      {
+        "s": "Milton HS",
+        "r": 1,
+        "t": "9:22 AM"
+      },
+      {
+        "s": "Fishers HS",
+        "r": 1,
+        "t": "9:33 AM"
+      },
+      {
+        "s": "Walled Lake Consolidated Schools",
+        "r": 1,
+        "t": "9:44 AM"
+      },
+      {
+        "s": "Mt. Juliet HS",
+        "r": 1,
+        "t": "9:55 AM"
+      },
+      {
+        "s": "Franklin Central HS",
+        "r": 1,
+        "t": "10:06 AM"
+      },
+      {
+        "s": "Burleson Centennial HS",
+        "r": 1,
+        "t": "10:25 AM"
+      },
+      {
+        "s": "Vista Murrieta HS",
+        "r": 1,
+        "t": "10:36 AM"
+      },
+      {
+        "s": "Broken Arrow HS",
+        "r": 1,
+        "t": "10:47 AM"
+      },
+      {
+        "s": "Etiwanda HS",
+        "r": 1,
+        "t": "10:58 AM"
+      },
+      {
+        "s": "Greenwood HS",
+        "r": 1,
+        "t": "11:09 AM"
+      },
+      {
+        "s": "Ayala HS",
+        "r": 1,
+        "t": "11:20 AM"
+      },
+      {
+        "s": "Bridgeland HS",
+        "r": 1,
+        "t": "11:31 AM"
+      },
+      {
+        "s": "Foothill HS",
+        "r": 2,
+        "t": "12:25 PM"
+      },
+      {
+        "s": "Fair Lawn HS",
+        "r": 2,
+        "t": "12:36 PM"
+      },
+      {
+        "s": "Clear Brook HS",
+        "r": 2,
+        "t": "12:47 PM"
+      },
+      {
+        "s": "Dorman HS",
+        "r": 2,
+        "t": "12:58 PM"
+      },
+      {
+        "s": "Avon HS",
+        "r": 2,
+        "t": "1:09 PM"
+      },
+      {
+        "s": "Brownsburg HS",
+        "r": 2,
+        "t": "1:20 PM"
+      },
+      {
+        "s": "Arcadia HS",
+        "r": 2,
+        "t": "1:40 PM"
+      },
+      {
+        "s": "Carroll HS",
+        "r": 2,
+        "t": "1:51 PM"
+      },
+      {
+        "s": "Buchanan HS",
+        "r": 2,
+        "t": "2:02 PM"
+      },
+      {
+        "s": "Chino Hills HS",
+        "r": 2,
+        "t": "2:13 PM"
+      },
+      {
+        "s": "Cy-Fair HS",
+        "r": 2,
+        "t": "2:24 PM"
+      },
+      {
+        "s": "Homestead HS",
+        "r": 2,
+        "t": "2:35 PM"
+      },
+      {
+        "s": "Saratoga HS",
+        "r": 2,
+        "t": "2:46 PM"
+      }
     ],
     "PIW": [
-      {"s":"IMPACT Percussion","r":1,"t":"3:10 PM"},
-      {"s":"Rise Percussion","r":1,"t":"3:21 PM"},
-      {"s":"Flux Indoor Percussion","r":1,"t":"3:32 PM"},
-      {"s":"RCC","r":1,"t":"3:43 PM"},
-      {"s":"Matrix","r":1,"t":"3:54 PM"},
-      {"s":"Red Wave Indoor from Fresno State","r":1,"t":"4:05 PM"},
-      {"s":"Cap City","r":1,"t":"4:16 PM"},
-      {"s":"Civitas Independent","r":1,"t":"4:27 PM"},
-      {"s":"George Mason University","r":1,"t":"4:45 PM"},
-      {"s":"Monarch Independent","r":1,"t":"4:56 PM"},
-      {"s":"MBI Indoor Percussion","r":1,"t":"5:07 PM"},
-      {"s":"Kaizen","r":1,"t":"5:18 PM"},
-      {"s":"STRYKE Percussion","r":1,"t":"5:29 PM"},
-      {"s":"Broken City","r":1,"t":"5:40 PM"},
-      {"s":"Rhythmic Force Percussion","r":1,"t":"5:51 PM"},
-      {"s":"Redline","r":1,"t":"6:02 PM"},
-      {"s":"Instinct","r":2,"t":"6:55 PM"},
-      {"s":"Dark Sky Percussion","r":2,"t":"7:06 PM"},
-      {"s":"Infinity","r":2,"t":"7:17 PM"},
-      {"s":"Rhythm X","r":2,"t":"7:28 PM"},
-      {"s":"Atlanta Quest","r":2,"t":"7:39 PM"},
-      {"s":"Pulse Percussion","r":2,"t":"7:50 PM"},
-      {"s":"United Percussion","r":2,"t":"8:01 PM"},
-      {"s":"Blue Knights","r":2,"t":"8:12 PM"},
-      {"s":"Infinity 2","r":2,"t":"8:30 PM"},
-      {"s":"Resistance Indoor Percussion","r":2,"t":"8:41 PM"},
-      {"s":"Vigilantes Indoor Percussion","r":2,"t":"8:52 PM"},
-      {"s":"ConneXus","r":2,"t":"9:03 PM"},
-      {"s":"Audio Theater","r":2,"t":"9:14 PM"},
-      {"s":"POW Percussion","r":2,"t":"9:25 PM"},
-      {"s":"Meraki","r":2,"t":"9:36 PM"},
-      {"s":"Music City Mystique","r":2,"t":"9:47 PM"}
+      {
+        "s": "IMPACT Percussion",
+        "r": 1,
+        "t": "3:10 PM"
+      },
+      {
+        "s": "Rise Percussion",
+        "r": 1,
+        "t": "3:21 PM"
+      },
+      {
+        "s": "Flux Indoor Percussion",
+        "r": 1,
+        "t": "3:32 PM"
+      },
+      {
+        "s": "RCC",
+        "r": 1,
+        "t": "3:43 PM"
+      },
+      {
+        "s": "Matrix",
+        "r": 1,
+        "t": "3:54 PM"
+      },
+      {
+        "s": "Red Wave Indoor from Fresno State",
+        "r": 1,
+        "t": "4:05 PM"
+      },
+      {
+        "s": "Cap City",
+        "r": 1,
+        "t": "4:16 PM"
+      },
+      {
+        "s": "Civitas Independent",
+        "r": 1,
+        "t": "4:27 PM"
+      },
+      {
+        "s": "George Mason University",
+        "r": 1,
+        "t": "4:45 PM"
+      },
+      {
+        "s": "Monarch Independent",
+        "r": 1,
+        "t": "4:56 PM"
+      },
+      {
+        "s": "MBI Indoor Percussion",
+        "r": 1,
+        "t": "5:07 PM"
+      },
+      {
+        "s": "Kaizen",
+        "r": 1,
+        "t": "5:18 PM"
+      },
+      {
+        "s": "STRYKE Percussion",
+        "r": 1,
+        "t": "5:29 PM"
+      },
+      {
+        "s": "Broken City",
+        "r": 1,
+        "t": "5:40 PM"
+      },
+      {
+        "s": "Rhythmic Force Percussion",
+        "r": 1,
+        "t": "5:51 PM"
+      },
+      {
+        "s": "Redline",
+        "r": 1,
+        "t": "6:02 PM"
+      },
+      {
+        "s": "Instinct",
+        "r": 2,
+        "t": "6:55 PM"
+      },
+      {
+        "s": "Dark Sky Percussion",
+        "r": 2,
+        "t": "7:06 PM"
+      },
+      {
+        "s": "Infinity",
+        "r": 2,
+        "t": "7:17 PM"
+      },
+      {
+        "s": "Rhythm X",
+        "r": 2,
+        "t": "7:28 PM"
+      },
+      {
+        "s": "Atlanta Quest",
+        "r": 2,
+        "t": "7:39 PM"
+      },
+      {
+        "s": "Pulse Percussion",
+        "r": 2,
+        "t": "7:50 PM"
+      },
+      {
+        "s": "United Percussion",
+        "r": 2,
+        "t": "8:01 PM"
+      },
+      {
+        "s": "Blue Knights",
+        "r": 2,
+        "t": "8:12 PM"
+      },
+      {
+        "s": "Infinity 2",
+        "r": 2,
+        "t": "8:30 PM"
+      },
+      {
+        "s": "Resistance Indoor Percussion",
+        "r": 2,
+        "t": "8:41 PM"
+      },
+      {
+        "s": "Vigilantes Indoor Percussion",
+        "r": 2,
+        "t": "8:52 PM"
+      },
+      {
+        "s": "ConneXus",
+        "r": 2,
+        "t": "9:03 PM"
+      },
+      {
+        "s": "Audio Theater",
+        "r": 2,
+        "t": "9:14 PM"
+      },
+      {
+        "s": "POW Percussion",
+        "r": 2,
+        "t": "9:25 PM"
+      },
+      {
+        "s": "Meraki",
+        "r": 2,
+        "t": "9:36 PM"
+      },
+      {
+        "s": "Music City Mystique",
+        "r": 2,
+        "t": "9:47 PM"
+      }
     ]
   },
   "semis": {
     "PSA": [
-      {"s":"Bridgewater Raritan HS","r":1,"t":"9:00 AM"},{"s":"Downingtown East HS","r":1,"t":"9:09 AM"},
-      {"s":"Mansfield HS","r":1,"t":"9:18 AM"},{"s":"Monarch HS","r":1,"t":"9:27 AM"},
-      {"s":"Kickapoo HS","r":1,"t":"9:36 AM"},{"s":"Central Dauphin HS","r":1,"t":"9:45 AM"},
-      {"s":"Central HS (TX)","r":1,"t":"9:54 AM"},{"s":"Highland Regional HS","r":1,"t":"10:03 AM"},
-      {"s":"Pearl HS","r":1,"t":"10:25 AM"},{"s":"Fleming Island HS","r":1,"t":"10:34 AM"},
-      {"s":"Choctawhatchee HS","r":1,"t":"10:43 AM"},{"s":"E.D. White Catholic HS","r":1,"t":"10:52 AM"},
-      {"s":"Temple City HS","r":1,"t":"11:01 AM"},{"s":"Jordan-Elbridge HS","r":1,"t":"11:10 AM"},
-      {"s":"Kings HS","r":1,"t":"11:19 AM"},{"s":"Alpharetta HS","r":1,"t":"11:28 AM"},
-      {"s":"Sycamore HS","r":2,"t":"12:20 PM"},{"s":"Decatur Central HS","r":2,"t":"12:29 PM"},
-      {"s":"Starkville HS","r":2,"t":"12:38 PM"},{"s":"Oak Grove HS (MS)","r":2,"t":"12:47 PM"},
-      {"s":"Williams Field HS","r":2,"t":"12:56 PM"},{"s":"Unionville HS","r":2,"t":"1:05 PM"},
-      {"s":"John C. Birdlebough HS","r":2,"t":"1:14 PM"},{"s":"Troy HS","r":2,"t":"1:23 PM"},
-      {"s":"East Coweta HS","r":2,"t":"1:40 PM"},{"s":"Glencoe HS","r":2,"t":"1:49 PM"},
-      {"s":"Everett HS","r":2,"t":"1:58 PM"},{"s":"Hardin Valley Academy","r":2,"t":"2:07 PM"},
-      {"s":"Springboro HS","r":2,"t":"2:16 PM"},{"s":"Hamilton Southeastern HS","r":2,"t":"2:25 PM"},
-      {"s":"Weatherford HS","r":2,"t":"2:34 PM"},{"s":"Owen J Roberts HS","r":2,"t":"2:43 PM"}
+      {
+        "s": "Bridgewater Raritan HS",
+        "r": 1,
+        "t": "9:00 AM"
+      },
+      {
+        "s": "Downingtown East HS",
+        "r": 1,
+        "t": "9:09 AM"
+      },
+      {
+        "s": "Mansfield HS",
+        "r": 1,
+        "t": "9:18 AM"
+      },
+      {
+        "s": "Monarch HS",
+        "r": 1,
+        "t": "9:27 AM"
+      },
+      {
+        "s": "Kickapoo HS",
+        "r": 1,
+        "t": "9:36 AM"
+      },
+      {
+        "s": "Central Dauphin HS",
+        "r": 1,
+        "t": "9:45 AM"
+      },
+      {
+        "s": "Central HS (TX)",
+        "r": 1,
+        "t": "9:54 AM"
+      },
+      {
+        "s": "Highland Regional HS",
+        "r": 1,
+        "t": "10:03 AM"
+      },
+      {
+        "s": "Pearl HS",
+        "r": 1,
+        "t": "10:25 AM"
+      },
+      {
+        "s": "Fleming Island HS",
+        "r": 1,
+        "t": "10:34 AM"
+      },
+      {
+        "s": "Choctawhatchee HS",
+        "r": 1,
+        "t": "10:43 AM"
+      },
+      {
+        "s": "E.D. White Catholic HS",
+        "r": 1,
+        "t": "10:52 AM"
+      },
+      {
+        "s": "Temple City HS",
+        "r": 1,
+        "t": "11:01 AM"
+      },
+      {
+        "s": "Jordan-Elbridge HS",
+        "r": 1,
+        "t": "11:10 AM"
+      },
+      {
+        "s": "Kings HS",
+        "r": 1,
+        "t": "11:19 AM"
+      },
+      {
+        "s": "Alpharetta HS",
+        "r": 1,
+        "t": "11:28 AM"
+      },
+      {
+        "s": "Sycamore HS",
+        "r": 2,
+        "t": "12:20 PM"
+      },
+      {
+        "s": "Decatur Central HS",
+        "r": 2,
+        "t": "12:29 PM"
+      },
+      {
+        "s": "Starkville HS",
+        "r": 2,
+        "t": "12:38 PM"
+      },
+      {
+        "s": "Oak Grove HS (MS)",
+        "r": 2,
+        "t": "12:47 PM"
+      },
+      {
+        "s": "Williams Field HS",
+        "r": 2,
+        "t": "12:56 PM"
+      },
+      {
+        "s": "Unionville HS",
+        "r": 2,
+        "t": "1:05 PM"
+      },
+      {
+        "s": "John C. Birdlebough HS",
+        "r": 2,
+        "t": "1:14 PM"
+      },
+      {
+        "s": "Troy HS",
+        "r": 2,
+        "t": "1:23 PM"
+      },
+      {
+        "s": "East Coweta HS",
+        "r": 2,
+        "t": "1:40 PM"
+      },
+      {
+        "s": "Glencoe HS",
+        "r": 2,
+        "t": "1:49 PM"
+      },
+      {
+        "s": "Everett HS",
+        "r": 2,
+        "t": "1:58 PM"
+      },
+      {
+        "s": "Hardin Valley Academy",
+        "r": 2,
+        "t": "2:07 PM"
+      },
+      {
+        "s": "Springboro HS",
+        "r": 2,
+        "t": "2:16 PM"
+      },
+      {
+        "s": "Hamilton Southeastern HS",
+        "r": 2,
+        "t": "2:25 PM"
+      },
+      {
+        "s": "Weatherford HS",
+        "r": 2,
+        "t": "2:34 PM"
+      },
+      {
+        "s": "Owen J Roberts HS",
+        "r": 2,
+        "t": "2:43 PM"
+      }
     ],
     "PSO": [
-      {"s":"Chattahoochee HS","r":1,"t":"9:00 AM"},{"s":"Saginaw HS","r":1,"t":"9:10 AM"},
-      {"s":"Noblesville HS","r":1,"t":"9:20 AM"},{"s":"Chisholm Trail HS","r":1,"t":"9:30 AM"},
-      {"s":"North Penn HS","r":1,"t":"9:40 AM"},{"s":"Eden Prairie HS","r":1,"t":"9:50 AM"},
-      {"s":"Brandon Valley HS","r":1,"t":"10:00 AM"},{"s":"Southlake Carroll HS","r":1,"t":"10:10 AM"},
-      {"s":"Centerville HS","r":1,"t":"10:30 AM"},{"s":"West Shore School District","r":1,"t":"10:40 AM"},
-      {"s":"Central Lafourche HS","r":1,"t":"10:50 AM"},{"s":"Arbor View HS","r":1,"t":"11:00 AM"},
-      {"s":"Beavercreek HS","r":1,"t":"11:10 AM"},{"s":"Jordan HS","r":1,"t":"11:20 AM"},
-      {"s":"Auburn HS (AL)","r":1,"t":"11:30 AM"},{"s":"Sonia Sotomayor HS","r":1,"t":"11:40 AM"},
-      {"s":"Northview HS","r":2,"t":"2:20 PM"},{"s":"Kettering Fairmont HS","r":2,"t":"2:30 PM"},
-      {"s":"Southmoore HS","r":2,"t":"2:40 PM"},{"s":"Pacifica HS","r":2,"t":"2:50 PM"},
-      {"s":"Irondale Combined Schools","r":2,"t":"3:00 PM"},{"s":"Goshen HS","r":2,"t":"3:10 PM"},
-      {"s":"Legacy HS","r":2,"t":"3:20 PM"},{"s":"Boswell HS","r":2,"t":"3:30 PM"},
-      {"s":"Thomas Jefferson HS","r":2,"t":"3:50 PM"},{"s":"Sparkman HS","r":2,"t":"4:00 PM"},
-      {"s":"Franklin Community HS","r":2,"t":"4:10 PM"},{"s":"Greenfield-Central HS","r":2,"t":"4:20 PM"},
-      {"s":"Norwalk HS","r":2,"t":"4:30 PM"},{"s":"Zionsville Community HS","r":2,"t":"4:40 PM"},
-      {"s":"Pace HS","r":2,"t":"4:50 PM"},{"s":"Victor J. Andrew HS","r":2,"t":"5:00 PM"}
+      {
+        "s": "Chattahoochee HS",
+        "r": 1,
+        "t": "9:00 AM"
+      },
+      {
+        "s": "Saginaw HS",
+        "r": 1,
+        "t": "9:10 AM"
+      },
+      {
+        "s": "Noblesville HS",
+        "r": 1,
+        "t": "9:20 AM"
+      },
+      {
+        "s": "Chisholm Trail HS",
+        "r": 1,
+        "t": "9:30 AM"
+      },
+      {
+        "s": "North Penn HS",
+        "r": 1,
+        "t": "9:40 AM"
+      },
+      {
+        "s": "Eden Prairie HS",
+        "r": 1,
+        "t": "9:50 AM"
+      },
+      {
+        "s": "Brandon Valley HS",
+        "r": 1,
+        "t": "10:00 AM"
+      },
+      {
+        "s": "Southlake Carroll HS",
+        "r": 1,
+        "t": "10:10 AM"
+      },
+      {
+        "s": "Centerville HS",
+        "r": 1,
+        "t": "10:30 AM"
+      },
+      {
+        "s": "West Shore School District",
+        "r": 1,
+        "t": "10:40 AM"
+      },
+      {
+        "s": "Central Lafourche HS",
+        "r": 1,
+        "t": "10:50 AM"
+      },
+      {
+        "s": "Arbor View HS",
+        "r": 1,
+        "t": "11:00 AM"
+      },
+      {
+        "s": "Beavercreek HS",
+        "r": 1,
+        "t": "11:10 AM"
+      },
+      {
+        "s": "Jordan HS",
+        "r": 1,
+        "t": "11:20 AM"
+      },
+      {
+        "s": "Auburn HS (AL)",
+        "r": 1,
+        "t": "11:30 AM"
+      },
+      {
+        "s": "Sonia Sotomayor HS",
+        "r": 1,
+        "t": "11:40 AM"
+      },
+      {
+        "s": "Northview HS",
+        "r": 2,
+        "t": "2:20 PM"
+      },
+      {
+        "s": "Kettering Fairmont HS",
+        "r": 2,
+        "t": "2:30 PM"
+      },
+      {
+        "s": "Southmoore HS",
+        "r": 2,
+        "t": "2:40 PM"
+      },
+      {
+        "s": "Pacifica HS",
+        "r": 2,
+        "t": "2:50 PM"
+      },
+      {
+        "s": "Irondale Combined Schools",
+        "r": 2,
+        "t": "3:00 PM"
+      },
+      {
+        "s": "Goshen HS",
+        "r": 2,
+        "t": "3:10 PM"
+      },
+      {
+        "s": "Legacy HS",
+        "r": 2,
+        "t": "3:20 PM"
+      },
+      {
+        "s": "Boswell HS",
+        "r": 2,
+        "t": "3:30 PM"
+      },
+      {
+        "s": "Thomas Jefferson HS",
+        "r": 2,
+        "t": "3:50 PM"
+      },
+      {
+        "s": "Sparkman HS",
+        "r": 2,
+        "t": "4:00 PM"
+      },
+      {
+        "s": "Franklin Community HS",
+        "r": 2,
+        "t": "4:10 PM"
+      },
+      {
+        "s": "Greenfield-Central HS",
+        "r": 2,
+        "t": "4:20 PM"
+      },
+      {
+        "s": "Norwalk HS",
+        "r": 2,
+        "t": "4:30 PM"
+      },
+      {
+        "s": "Zionsville Community HS",
+        "r": 2,
+        "t": "4:40 PM"
+      },
+      {
+        "s": "Pace HS",
+        "r": 2,
+        "t": "4:50 PM"
+      },
+      {
+        "s": "Victor J. Andrew HS",
+        "r": 2,
+        "t": "5:00 PM"
+      }
     ],
     "PIO": [
-      {"s":"Vision Percussion","r":1,"t":"12:00 PM"},{"s":"River City Rhythm","r":1,"t":"12:10 PM"},
-      {"s":"Modulation Z","r":1,"t":"12:20 PM"},{"s":"Old Line Independent Percussion","r":1,"t":"12:30 PM"},
-      {"s":"OCI","r":1,"t":"12:40 PM"},{"s":"Matrix Open","r":1,"t":"12:50 PM"},
-      {"s":"Imperial Dynasty","r":1,"t":"1:10 PM"},{"s":"Motor City Percussion","r":1,"t":"1:20 PM"},
-      {"s":"Paradigm Percussion","r":1,"t":"1:30 PM"},{"s":"Spectre Percussion","r":1,"t":"1:40 PM"},
-      {"s":"Q2","r":1,"t":"1:50 PM"},{"s":"Veritas","r":1,"t":"2:00 PM"},
-      {"s":"United Percussion 2","r":2,"t":"5:20 PM"},{"s":"Revelation Open","r":2,"t":"5:30 PM"},
-      {"s":"Lotus","r":2,"t":"5:40 PM"},{"s":"Synergy","r":2,"t":"5:50 PM"},
-      {"s":"Buckhorn Percussion","r":2,"t":"6:00 PM"},{"s":"Sun City Independent","r":2,"t":"6:10 PM"},
-      {"s":"Bakersfield College","r":2,"t":"6:30 PM"},{"s":"Infinity 3","r":2,"t":"6:40 PM"},
-      {"s":"Freedom Percussion","r":2,"t":"6:50 PM"},{"s":"Sparta Indoor Percussion","r":2,"t":"7:00 PM"},
-      {"s":"Cap City 2","r":2,"t":"7:10 PM"},{"s":"UTSA","r":2,"t":"7:20 PM"}
+      {
+        "s": "Vision Percussion",
+        "r": 1,
+        "t": "12:00 PM"
+      },
+      {
+        "s": "River City Rhythm",
+        "r": 1,
+        "t": "12:10 PM"
+      },
+      {
+        "s": "Modulation Z",
+        "r": 1,
+        "t": "12:20 PM"
+      },
+      {
+        "s": "Old Line Independent Percussion",
+        "r": 1,
+        "t": "12:30 PM"
+      },
+      {
+        "s": "OCI",
+        "r": 1,
+        "t": "12:40 PM"
+      },
+      {
+        "s": "Matrix Open",
+        "r": 1,
+        "t": "12:50 PM"
+      },
+      {
+        "s": "Imperial Dynasty",
+        "r": 1,
+        "t": "1:10 PM"
+      },
+      {
+        "s": "Motor City Percussion",
+        "r": 1,
+        "t": "1:20 PM"
+      },
+      {
+        "s": "Paradigm Percussion",
+        "r": 1,
+        "t": "1:30 PM"
+      },
+      {
+        "s": "Spectre Percussion",
+        "r": 1,
+        "t": "1:40 PM"
+      },
+      {
+        "s": "Q2",
+        "r": 1,
+        "t": "1:50 PM"
+      },
+      {
+        "s": "Veritas",
+        "r": 1,
+        "t": "2:00 PM"
+      },
+      {
+        "s": "United Percussion 2",
+        "r": 2,
+        "t": "5:20 PM"
+      },
+      {
+        "s": "Revelation Open",
+        "r": 2,
+        "t": "5:30 PM"
+      },
+      {
+        "s": "Lotus",
+        "r": 2,
+        "t": "5:40 PM"
+      },
+      {
+        "s": "Synergy",
+        "r": 2,
+        "t": "5:50 PM"
+      },
+      {
+        "s": "Buckhorn Percussion",
+        "r": 2,
+        "t": "6:00 PM"
+      },
+      {
+        "s": "Sun City Independent",
+        "r": 2,
+        "t": "6:10 PM"
+      },
+      {
+        "s": "Bakersfield College",
+        "r": 2,
+        "t": "6:30 PM"
+      },
+      {
+        "s": "Infinity 3",
+        "r": 2,
+        "t": "6:40 PM"
+      },
+      {
+        "s": "Freedom Percussion",
+        "r": 2,
+        "t": "6:50 PM"
+      },
+      {
+        "s": "Sparta Indoor Percussion",
+        "r": 2,
+        "t": "7:00 PM"
+      },
+      {
+        "s": "Cap City 2",
+        "r": 2,
+        "t": "7:10 PM"
+      },
+      {
+        "s": "UTSA",
+        "r": 2,
+        "t": "7:20 PM"
+      }
     ],
     "PSW": [
-      {"s":"Foothill HS","r":1,"t":"9:00 AM"},{"s":"Fishers HS","r":1,"t":"9:11 AM"},
-      {"s":"Dorman HS","r":1,"t":"9:22 AM"},{"s":"Franklin Central HS","r":1,"t":"9:33 AM"},
-      {"s":"Buchanan HS","r":1,"t":"9:44 AM"},{"s":"Brownsburg HS","r":1,"t":"9:55 AM"},
-      {"s":"James Logan HS","r":1,"t":"10:06 AM"},{"s":"Broken Arrow HS","r":1,"t":"10:25 AM"},
-      {"s":"Cy-Fair HS","r":1,"t":"10:36 AM"},{"s":"Etiwanda HS","r":1,"t":"10:47 AM"},
-      {"s":"Saratoga HS","r":1,"t":"10:58 AM"},{"s":"Center Grove HS","r":1,"t":"11:09 AM"},
-      {"s":"Burleson Centennial HS","r":1,"t":"11:20 AM"},{"s":"Avon HS","r":1,"t":"11:31 AM"},
-      {"s":"Clear Brook HS","r":1,"t":"11:50 AM"},{"s":"Bridgeland HS","r":1,"t":"12:01 PM"},
-      {"s":"Vista Murrieta HS","r":1,"t":"12:12 PM"},{"s":"Arcadia HS","r":1,"t":"12:23 PM"},
-      {"s":"Ayala HS","r":1,"t":"12:34 PM"},{"s":"Chino Hills HS","r":1,"t":"12:45 PM"}
+      {
+        "s": "Foothill HS",
+        "r": 1,
+        "t": "9:00 AM"
+      },
+      {
+        "s": "Fishers HS",
+        "r": 1,
+        "t": "9:11 AM"
+      },
+      {
+        "s": "Dorman HS",
+        "r": 1,
+        "t": "9:22 AM"
+      },
+      {
+        "s": "Franklin Central HS",
+        "r": 1,
+        "t": "9:33 AM"
+      },
+      {
+        "s": "Buchanan HS",
+        "r": 1,
+        "t": "9:44 AM"
+      },
+      {
+        "s": "Brownsburg HS",
+        "r": 1,
+        "t": "9:55 AM"
+      },
+      {
+        "s": "James Logan HS",
+        "r": 1,
+        "t": "10:06 AM"
+      },
+      {
+        "s": "Broken Arrow HS",
+        "r": 1,
+        "t": "10:25 AM"
+      },
+      {
+        "s": "Cy-Fair HS",
+        "r": 1,
+        "t": "10:36 AM"
+      },
+      {
+        "s": "Etiwanda HS",
+        "r": 1,
+        "t": "10:47 AM"
+      },
+      {
+        "s": "Saratoga HS",
+        "r": 1,
+        "t": "10:58 AM"
+      },
+      {
+        "s": "Center Grove HS",
+        "r": 1,
+        "t": "11:09 AM"
+      },
+      {
+        "s": "Burleson Centennial HS",
+        "r": 1,
+        "t": "11:20 AM"
+      },
+      {
+        "s": "Avon HS",
+        "r": 1,
+        "t": "11:31 AM"
+      },
+      {
+        "s": "Clear Brook HS",
+        "r": 1,
+        "t": "11:50 AM"
+      },
+      {
+        "s": "Bridgeland HS",
+        "r": 1,
+        "t": "12:01 PM"
+      },
+      {
+        "s": "Vista Murrieta HS",
+        "r": 1,
+        "t": "12:12 PM"
+      },
+      {
+        "s": "Arcadia HS",
+        "r": 1,
+        "t": "12:23 PM"
+      },
+      {
+        "s": "Ayala HS",
+        "r": 1,
+        "t": "12:34 PM"
+      },
+      {
+        "s": "Chino Hills HS",
+        "r": 1,
+        "t": "12:45 PM"
+      }
     ],
     "PIW": [
-      {"s":"ConneXus","r":1,"t":"1:30 PM"},{"s":"United Percussion","r":1,"t":"1:41 PM"},
-      {"s":"Monarch Independent","r":1,"t":"1:52 PM"},{"s":"Civitas Independent","r":1,"t":"2:03 PM"},
-      {"s":"STRYKE Percussion","r":1,"t":"2:14 PM"},{"s":"Redline","r":1,"t":"2:25 PM"},
-      {"s":"Atlanta Quest","r":1,"t":"2:36 PM"},{"s":"Infinity 2","r":1,"t":"2:55 PM"},
-      {"s":"Cap City","r":1,"t":"3:06 PM"},{"s":"Dark Sky Percussion","r":1,"t":"3:17 PM"},
-      {"s":"POW Percussion","r":1,"t":"3:28 PM"},{"s":"Matrix","r":1,"t":"3:39 PM"},
-      {"s":"George Mason University","r":1,"t":"3:50 PM"},{"s":"Rhythmic Force Percussion","r":1,"t":"4:01 PM"},
-      {"s":"Infinity","r":1,"t":"4:20 PM"},{"s":"Music City Mystique","r":1,"t":"4:31 PM"},
-      {"s":"Broken City","r":1,"t":"4:42 PM"},{"s":"Pulse Percussion","r":1,"t":"4:53 PM"},
-      {"s":"RCC","r":1,"t":"5:04 PM"},{"s":"Rhythm X","r":1,"t":"5:15 PM"}
+      {
+        "s": "ConneXus",
+        "r": 1,
+        "t": "1:30 PM"
+      },
+      {
+        "s": "United Percussion",
+        "r": 1,
+        "t": "1:41 PM"
+      },
+      {
+        "s": "Monarch Independent",
+        "r": 1,
+        "t": "1:52 PM"
+      },
+      {
+        "s": "Civitas Independent",
+        "r": 1,
+        "t": "2:03 PM"
+      },
+      {
+        "s": "STRYKE Percussion",
+        "r": 1,
+        "t": "2:14 PM"
+      },
+      {
+        "s": "Redline",
+        "r": 1,
+        "t": "2:25 PM"
+      },
+      {
+        "s": "Atlanta Quest",
+        "r": 1,
+        "t": "2:36 PM"
+      },
+      {
+        "s": "Infinity 2",
+        "r": 1,
+        "t": "2:55 PM"
+      },
+      {
+        "s": "Cap City",
+        "r": 1,
+        "t": "3:06 PM"
+      },
+      {
+        "s": "Dark Sky Percussion",
+        "r": 1,
+        "t": "3:17 PM"
+      },
+      {
+        "s": "POW Percussion",
+        "r": 1,
+        "t": "3:28 PM"
+      },
+      {
+        "s": "Matrix",
+        "r": 1,
+        "t": "3:39 PM"
+      },
+      {
+        "s": "George Mason University",
+        "r": 1,
+        "t": "3:50 PM"
+      },
+      {
+        "s": "Rhythmic Force Percussion",
+        "r": 1,
+        "t": "4:01 PM"
+      },
+      {
+        "s": "Infinity",
+        "r": 1,
+        "t": "4:20 PM"
+      },
+      {
+        "s": "Music City Mystique",
+        "r": 1,
+        "t": "4:31 PM"
+      },
+      {
+        "s": "Broken City",
+        "r": 1,
+        "t": "4:42 PM"
+      },
+      {
+        "s": "Pulse Percussion",
+        "r": 1,
+        "t": "4:53 PM"
+      },
+      {
+        "s": "RCC",
+        "r": 1,
+        "t": "5:04 PM"
+      },
+      {
+        "s": "Rhythm X",
+        "r": 1,
+        "t": "5:15 PM"
+      }
     ]
   },
   "finals": {
     "PIA": [
-      {"s":"Spark Percussion","t":"6:00 PM"},{"s":"East Mississippi Em-pact","t":"6:09 PM"},
-      {"s":"Vortex Percussion","t":"6:18 PM"},{"s":"Legacy Percussion","t":"6:27 PM"},
-      {"s":"Horizon Percussion","t":"6:36 PM"},{"s":"Boise Gems Independent","t":"6:45 PM"},
-      {"s":"Pi Percussion Inc.","t":"6:54 PM"},{"s":"Revelation A","t":"7:03 PM"},
-      {"s":"202 Indoor Percussion","t":"7:20 PM"},{"s":"North Star Independent","t":"7:29 PM"},
-      {"s":"Francis Howell Percussion","t":"7:38 PM"},{"s":"South County Combined","t":"7:47 PM"},
-      {"s":"Lake Effect Percussion","t":"7:56 PM"},{"s":"Ravenwood Indoor Percussion","t":"8:05 PM"},
-      {"s":"Nomad Indoor","t":"8:14 PM"}
+      {
+        "s": "Spark Percussion",
+        "t": "6:00 PM"
+      },
+      {
+        "s": "East Mississippi Em-pact",
+        "t": "6:09 PM"
+      },
+      {
+        "s": "Vortex Percussion",
+        "t": "6:18 PM"
+      },
+      {
+        "s": "Legacy Percussion",
+        "t": "6:27 PM"
+      },
+      {
+        "s": "Horizon Percussion",
+        "t": "6:36 PM"
+      },
+      {
+        "s": "Boise Gems Independent",
+        "t": "6:45 PM"
+      },
+      {
+        "s": "Pi Percussion Inc.",
+        "t": "6:54 PM"
+      },
+      {
+        "s": "Revelation A",
+        "t": "7:03 PM"
+      },
+      {
+        "s": "202 Indoor Percussion",
+        "t": "7:20 PM"
+      },
+      {
+        "s": "North Star Independent",
+        "t": "7:29 PM"
+      },
+      {
+        "s": "Francis Howell Percussion",
+        "t": "7:38 PM"
+      },
+      {
+        "s": "South County Combined",
+        "t": "7:47 PM"
+      },
+      {
+        "s": "Lake Effect Percussion",
+        "t": "7:56 PM"
+      },
+      {
+        "s": "Ravenwood Indoor Percussion",
+        "t": "8:05 PM"
+      },
+      {
+        "s": "Nomad Indoor",
+        "t": "8:14 PM"
+      }
     ],
     "PSA": [
-      {"s":"TBD","t":"8:30 PM"},{"s":"TBD","t":"8:39 PM"},{"s":"TBD","t":"8:48 PM"},
-      {"s":"TBD","t":"8:57 PM"},{"s":"TBD","t":"9:06 PM"},{"s":"TBD","t":"9:15 PM"},
-      {"s":"TBD","t":"9:24 PM"},{"s":"TBD","t":"9:33 PM"},{"s":"TBD","t":"9:50 PM"},
-      {"s":"TBD","t":"9:59 PM"},{"s":"TBD","t":"10:08 PM"},{"s":"TBD","t":"10:17 PM"},
-      {"s":"TBD","t":"10:26 PM"},{"s":"TBD","t":"10:35 PM"},{"s":"TBD","t":"10:44 PM"}
+      {
+        "s": "Central HS (TX)",
+        "t": "8:30 PM"
+      },
+      {
+        "s": "Glencoe HS",
+        "t": "8:39 PM"
+      },
+      {
+        "s": "Pearl HS",
+        "t": "8:48 PM"
+      },
+      {
+        "s": "East Coweta HS",
+        "t": "8:57 PM"
+      },
+      {
+        "s": "Temple City HS",
+        "t": "9:06 PM"
+      },
+      {
+        "s": "Everett HS",
+        "t": "9:15 PM"
+      },
+      {
+        "s": "Hardin Valley Academy",
+        "t": "9:24 PM"
+      },
+      {
+        "s": "Springboro HS",
+        "t": "9:33 PM"
+      },
+      {
+        "s": "E.D. White Catholic HS",
+        "t": "9:50 PM"
+      },
+      {
+        "s": "Hamilton Southeastern HS",
+        "t": "9:59 PM"
+      },
+      {
+        "s": "Weatherford HS",
+        "t": "10:08 PM"
+      },
+      {
+        "s": "Jordan-Elbridge HS",
+        "t": "10:17 PM"
+      },
+      {
+        "s": "Owen J Roberts HS",
+        "t": "10:26 PM"
+      },
+      {
+        "s": "Kings HS",
+        "t": "10:35 PM"
+      },
+      {
+        "s": "Alpharetta HS",
+        "t": "10:44 PM"
+      }
     ],
     "PSO": [
-      {"s":"TBD","t":"9:00 AM"},{"s":"TBD","t":"9:10 AM"},{"s":"TBD","t":"9:20 AM"},
-      {"s":"TBD","t":"9:30 AM"},{"s":"TBD","t":"9:40 AM"},{"s":"TBD","t":"9:50 AM"},
-      {"s":"TBD","t":"10:00 AM"},{"s":"TBD","t":"10:10 AM"},{"s":"TBD","t":"10:30 AM"},
-      {"s":"TBD","t":"10:40 AM"},{"s":"TBD","t":"10:50 AM"},{"s":"TBD","t":"11:00 AM"},
-      {"s":"TBD","t":"11:10 AM"},{"s":"TBD","t":"11:20 AM"},{"s":"TBD","t":"11:30 AM"}
+      {
+        "s": "TBD",
+        "t": "9:00 AM"
+      },
+      {
+        "s": "TBD",
+        "t": "9:10 AM"
+      },
+      {
+        "s": "TBD",
+        "t": "9:20 AM"
+      },
+      {
+        "s": "TBD",
+        "t": "9:30 AM"
+      },
+      {
+        "s": "TBD",
+        "t": "9:40 AM"
+      },
+      {
+        "s": "TBD",
+        "t": "9:50 AM"
+      },
+      {
+        "s": "TBD",
+        "t": "10:00 AM"
+      },
+      {
+        "s": "TBD",
+        "t": "10:10 AM"
+      },
+      {
+        "s": "TBD",
+        "t": "10:30 AM"
+      },
+      {
+        "s": "TBD",
+        "t": "10:40 AM"
+      },
+      {
+        "s": "TBD",
+        "t": "10:50 AM"
+      },
+      {
+        "s": "TBD",
+        "t": "11:00 AM"
+      },
+      {
+        "s": "TBD",
+        "t": "11:10 AM"
+      },
+      {
+        "s": "TBD",
+        "t": "11:20 AM"
+      },
+      {
+        "s": "TBD",
+        "t": "11:30 AM"
+      }
     ],
     "PIO": [
-      {"s":"TBD","t":"11:50 AM"},{"s":"TBD","t":"12:00 PM"},{"s":"TBD","t":"12:10 PM"},
-      {"s":"TBD","t":"12:20 PM"},{"s":"TBD","t":"12:30 PM"},{"s":"TBD","t":"12:40 PM"},
-      {"s":"TBD","t":"12:50 PM"},{"s":"TBD","t":"1:00 PM"},{"s":"TBD","t":"1:20 PM"},
-      {"s":"TBD","t":"1:30 PM"},{"s":"TBD","t":"1:40 PM"},{"s":"TBD","t":"1:50 PM"},
-      {"s":"TBD","t":"2:00 PM"},{"s":"TBD","t":"2:10 PM"},{"s":"TBD","t":"2:20 PM"}
+      {
+        "s": "TBD",
+        "t": "11:50 AM"
+      },
+      {
+        "s": "TBD",
+        "t": "12:00 PM"
+      },
+      {
+        "s": "TBD",
+        "t": "12:10 PM"
+      },
+      {
+        "s": "TBD",
+        "t": "12:20 PM"
+      },
+      {
+        "s": "TBD",
+        "t": "12:30 PM"
+      },
+      {
+        "s": "TBD",
+        "t": "12:40 PM"
+      },
+      {
+        "s": "TBD",
+        "t": "12:50 PM"
+      },
+      {
+        "s": "TBD",
+        "t": "1:00 PM"
+      },
+      {
+        "s": "TBD",
+        "t": "1:20 PM"
+      },
+      {
+        "s": "TBD",
+        "t": "1:30 PM"
+      },
+      {
+        "s": "TBD",
+        "t": "1:40 PM"
+      },
+      {
+        "s": "TBD",
+        "t": "1:50 PM"
+      },
+      {
+        "s": "TBD",
+        "t": "2:00 PM"
+      },
+      {
+        "s": "TBD",
+        "t": "2:10 PM"
+      },
+      {
+        "s": "TBD",
+        "t": "2:20 PM"
+      }
     ],
     "PSW": [
-      {"s":"TBD","t":"5:00 PM"},{"s":"TBD","t":"5:11 PM"},{"s":"TBD","t":"5:22 PM"},
-      {"s":"TBD","t":"5:33 PM"},{"s":"TBD","t":"5:44 PM"},{"s":"TBD","t":"5:55 PM"},
-      {"s":"TBD","t":"6:06 PM"},{"s":"TBD","t":"6:17 PM"},{"s":"TBD","t":"6:40 PM"},
-      {"s":"TBD","t":"6:51 PM"},{"s":"TBD","t":"7:02 PM"},{"s":"TBD","t":"7:13 PM"},
-      {"s":"TBD","t":"7:24 PM"},{"s":"TBD","t":"7:35 PM"},{"s":"TBD","t":"7:46 PM"}
+      {
+        "s": "Buchanan HS",
+        "t": "5:00 PM"
+      },
+      {
+        "s": "Broken Arrow HS",
+        "t": "5:11 PM"
+      },
+      {
+        "s": "Etiwanda HS",
+        "t": "5:22 PM"
+      },
+      {
+        "s": "Cy-Fair HS",
+        "t": "5:33 PM"
+      },
+      {
+        "s": "James Logan HS",
+        "t": "5:44 PM"
+      },
+      {
+        "s": "Center Grove HS",
+        "t": "5:55 PM"
+      },
+      {
+        "s": "Saratoga HS",
+        "t": "6:06 PM"
+      },
+      {
+        "s": "Avon HS",
+        "t": "6:17 PM"
+      },
+      {
+        "s": "Clear Brook HS",
+        "t": "6:40 PM"
+      },
+      {
+        "s": "Burleson Centennial HS",
+        "t": "6:51 PM"
+      },
+      {
+        "s": "Bridgeland HS",
+        "t": "7:02 PM"
+      },
+      {
+        "s": "Arcadia HS",
+        "t": "7:13 PM"
+      },
+      {
+        "s": "Vista Murrieta HS",
+        "t": "7:24 PM"
+      },
+      {
+        "s": "Chino Hills HS",
+        "t": "7:35 PM"
+      },
+      {
+        "s": "Ayala HS",
+        "t": "7:46 PM"
+      }
     ],
     "PIW": [
-      {"s":"TBD","t":"8:10 PM"},{"s":"TBD","t":"8:21 PM"},{"s":"TBD","t":"8:32 PM"},
-      {"s":"TBD","t":"8:43 PM"},{"s":"TBD","t":"8:54 PM"},{"s":"TBD","t":"9:05 PM"},
-      {"s":"TBD","t":"9:16 PM"},{"s":"TBD","t":"9:27 PM"},{"s":"TBD","t":"9:50 PM"},
-      {"s":"TBD","t":"10:01 PM"},{"s":"TBD","t":"10:12 PM"},{"s":"TBD","t":"10:23 PM"},
-      {"s":"TBD","t":"10:34 PM"},{"s":"TBD","t":"10:45 PM"},{"s":"TBD","t":"10:56 PM"}
+      {
+        "s": "Infinity 2",
+        "t": "8:10 PM"
+      },
+      {
+        "s": "Redline",
+        "t": "8:21 PM"
+      },
+      {
+        "s": "Cap City",
+        "t": "8:32 PM"
+      },
+      {
+        "s": "Atlanta Quest",
+        "t": "8:43 PM"
+      },
+      {
+        "s": "Matrix",
+        "t": "8:54 PM"
+      },
+      {
+        "s": "Dark Sky Percussion",
+        "t": "9:05 PM"
+      },
+      {
+        "s": "POW Percussion",
+        "t": "9:16 PM"
+      },
+      {
+        "s": "Rhythmic Force Percussion",
+        "t": "9:27 PM"
+      },
+      {
+        "s": "George Mason University",
+        "t": "9:50 PM"
+      },
+      {
+        "s": "Infinity",
+        "t": "10:01 PM"
+      },
+      {
+        "s": "Music City Mystique",
+        "t": "10:12 PM"
+      },
+      {
+        "s": "Broken City",
+        "t": "10:23 PM"
+      },
+      {
+        "s": "Pulse Percussion",
+        "t": "10:34 PM"
+      },
+      {
+        "s": "RCC",
+        "t": "10:45 PM"
+      },
+      {
+        "s": "Rhythm X",
+        "t": "10:56 PM"
+      }
     ]
   }
 }
