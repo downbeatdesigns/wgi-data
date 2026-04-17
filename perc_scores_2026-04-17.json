@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-17T18:11:13",
+  "generated": "2026-04-17T18:28:02",
   "date": "2026-04-17",
   "season": 2026,
   "sport": "percussion",
@@ -553,6 +553,117 @@
         ]
       }
     ],
-    "Percussion Independent World": []
+    "Percussion Independent World": [
+      {
+        "class": "Percussion Independent World",
+        "event": "2026 PSW & PIW Semi-Finals - Round 0",
+        "date": "2026-04-17",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Rhythm X",
+            "score": 98.5
+          },
+          {
+            "rank": 2,
+            "group": "RCC",
+            "score": 97.225
+          },
+          {
+            "rank": 3,
+            "group": "Pulse Percussion",
+            "score": 97.1
+          },
+          {
+            "rank": 4,
+            "group": "Broken City",
+            "score": 95.9
+          },
+          {
+            "rank": 5,
+            "group": "Music City Mystique",
+            "score": 95.788
+          },
+          {
+            "rank": 6,
+            "group": "Infinity",
+            "score": 94.913
+          },
+          {
+            "rank": 7,
+            "group": "George Mason University",
+            "score": 93.7
+          },
+          {
+            "rank": 8,
+            "group": "Rhythmic Force Percussion",
+            "score": 93.275
+          },
+          {
+            "rank": 9,
+            "group": "POW Percussion",
+            "score": 91.3
+          },
+          {
+            "rank": 10,
+            "group": "Dark Sky Percussion",
+            "score": 91.25
+          },
+          {
+            "rank": 11,
+            "group": "Matrix",
+            "score": 90.763
+          },
+          {
+            "rank": 12,
+            "group": "Atlanta Quest",
+            "score": 89.788
+          },
+          {
+            "rank": 13,
+            "group": "Cap City",
+            "score": 89.5
+          },
+          {
+            "rank": 14,
+            "group": "Redline",
+            "score": 88.875
+          },
+          {
+            "rank": 15,
+            "group": "Infinity 2",
+            "score": 88.413
+          },
+          {
+            "rank": 16,
+            "group": "Civitas Independent",
+            "score": 86.913
+          },
+          {
+            "rank": 17,
+            "group": "STRYKE Percussion",
+            "score": 86.75
+          },
+          {
+            "rank": 18,
+            "group": "United Percussion",
+            "score": 86.625
+          },
+          {
+            "rank": 19,
+            "group": "Monarch Independent",
+            "score": 86.088
+          },
+          {
+            "rank": 20,
+            "group": "ConneXus",
+            "score": 84.7
+          }
+        ]
+      }
+    ]
   }
 }
