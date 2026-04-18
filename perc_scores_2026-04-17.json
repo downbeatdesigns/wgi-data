@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-18T01:24:24",
+  "generated": "2026-04-18T01:27:31",
   "date": "2026-04-17",
   "season": 2026,
   "sport": "percussion",
@@ -182,6 +182,91 @@
             "rank": 16,
             "group": "Decatur Central HS",
             "score": 82.375
+          }
+        ]
+      },
+      {
+        "class": "Percussion Scholastic A",
+        "event": "2026 Percussion A Class FInals - Round 0",
+        "date": "2026-04-17",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Alpharetta HS",
+            "score": 97.85
+          },
+          {
+            "rank": 2,
+            "group": "Kings HS",
+            "score": 95.538
+          },
+          {
+            "rank": 3,
+            "group": "Weatherford HS",
+            "score": 94.788
+          },
+          {
+            "rank": 4,
+            "group": "Jordan-Elbridge HS",
+            "score": 94.425
+          },
+          {
+            "rank": 5,
+            "group": "Owen J Roberts HS",
+            "score": 94.033
+          },
+          {
+            "rank": 6,
+            "group": "Hamilton Southeastern HS",
+            "score": 92.488
+          },
+          {
+            "rank": 7,
+            "group": "E.D. White Catholic HS",
+            "score": 91.725
+          },
+          {
+            "rank": 8,
+            "group": "Hardin Valley Academy",
+            "score": 91.063
+          },
+          {
+            "rank": 9,
+            "group": "Temple City HS",
+            "score": 90.225
+          },
+          {
+            "rank": 10,
+            "group": "Springboro HS",
+            "score": 90.163
+          },
+          {
+            "rank": 11,
+            "group": "Everett HS",
+            "score": 90.0
+          },
+          {
+            "rank": 12,
+            "group": "East Coweta HS",
+            "score": 89.925
+          },
+          {
+            "rank": 13,
+            "group": "Pearl HS",
+            "score": 88.175
+          },
+          {
+            "rank": 14,
+            "group": "Glencoe HS",
+            "score": 87.275
+          },
+          {
+            "rank": 15,
+            "group": "Central HS (TX)",
+            "score": 86.65
           }
         ]
       }
@@ -480,7 +565,93 @@
         ]
       }
     ],
-    "Percussion Independent A": [],
+    "Percussion Independent A": [
+      {
+        "class": "Percussion Independent A",
+        "event": "2026 Percussion A Class FInals - Round 0",
+        "date": "2026-04-17",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Ravenwood Indoor Percussion",
+            "score": 95.525
+          },
+          {
+            "rank": 2,
+            "group": "Nomad Indoor",
+            "score": 94.1
+          },
+          {
+            "rank": 3,
+            "group": "South County Combined",
+            "score": 91.538
+          },
+          {
+            "rank": 4,
+            "group": "Lake Effect Percussion",
+            "score": 91.35
+          },
+          {
+            "rank": 5,
+            "group": "Francis Howell Percussion",
+            "score": 91.313
+          },
+          {
+            "rank": 6,
+            "group": "Pi Percussion Inc.",
+            "score": 90.7
+          },
+          {
+            "rank": 7,
+            "group": "Horizon Percussion",
+            "score": 87.825
+          },
+          {
+            "rank": 8,
+            "group": "Vortex Percussion",
+            "score": 86.8
+          },
+          {
+            "rank": 9,
+            "group": "202 Indoor Percussion",
+            "score": 86.675
+          },
+          {
+            "rank": 10,
+            "group": "Revelation A",
+            "score": 86.175
+          },
+          {
+            "rank": 11,
+            "group": "North Star Independent",
+            "score": 85.9
+          },
+          {
+            "rank": 12,
+            "group": "Boise Gems Independent",
+            "score": 85.675
+          },
+          {
+            "rank": 13,
+            "group": "Legacy Percussion",
+            "score": 83.95
+          },
+          {
+            "rank": 14,
+            "group": "Spark Percussion",
+            "score": 82.825
+          },
+          {
+            "rank": 15,
+            "group": "East Mississippi Em-pact",
+            "score": 79.125
+          }
+        ]
+      }
+    ],
     "Percussion Independent Open": [
       {
         "class": "Percussion Independent Open",
