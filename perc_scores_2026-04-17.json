@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-17T18:28:02",
+  "generated": "2026-04-18T01:24:24",
   "date": "2026-04-17",
   "season": 2026,
   "sport": "percussion",
@@ -549,6 +549,76 @@
             "rank": 12,
             "group": "Vision Percussion",
             "score": 81.4
+          }
+        ]
+      },
+      {
+        "class": "Percussion Independent Open",
+        "event": "2026 PSO & PIO Semi-Finals - Round 2",
+        "date": "2026-04-17",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Cap City 2",
+            "score": 96.275
+          },
+          {
+            "rank": 2,
+            "group": "UTSA",
+            "score": 96.125
+          },
+          {
+            "rank": 3,
+            "group": "Sparta Indoor Percussion",
+            "score": 93.288
+          },
+          {
+            "rank": 4,
+            "group": "Bakersfield College",
+            "score": 93.25
+          },
+          {
+            "rank": 5,
+            "group": "Infinity 3",
+            "score": 91.863
+          },
+          {
+            "rank": 6,
+            "group": "Freedom Percussion",
+            "score": 89.675
+          },
+          {
+            "rank": 7,
+            "group": "Sun City Independent",
+            "score": 89.313
+          },
+          {
+            "rank": 8,
+            "group": "Buckhorn Percussion",
+            "score": 89.188
+          },
+          {
+            "rank": 9,
+            "group": "Synergy",
+            "score": 87.35
+          },
+          {
+            "rank": 10,
+            "group": "United Percussion 2",
+            "score": 84.693
+          },
+          {
+            "rank": 11,
+            "group": "Lotus",
+            "score": 82.55
+          },
+          {
+            "rank": 12,
+            "group": "Revelation Open",
+            "score": 81.625
           }
         ]
       }
