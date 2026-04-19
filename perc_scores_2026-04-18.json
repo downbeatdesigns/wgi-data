@@ -1,0 +1,358 @@
+{
+  "generated": "2026-04-19T00:43:48",
+  "date": "2026-04-18",
+  "season": 2026,
+  "sport": "percussion",
+  "summary": {
+    "Percussion Scholastic A": [],
+    "Percussion Scholastic Open": [
+      {
+        "class": "Percussion Scholastic Open",
+        "event": "2026 Percussion Open Class Finals - Round 0",
+        "date": "2026-04-18",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Sonia Sotomayor HS",
+            "score": 96.038
+          },
+          {
+            "rank": 2,
+            "group": "Victor J. Andrew HS",
+            "score": 95.925
+          },
+          {
+            "rank": 3,
+            "group": "Norwalk HS",
+            "score": 95.3
+          },
+          {
+            "rank": 4,
+            "group": "Pace HS",
+            "score": 94.388
+          },
+          {
+            "rank": 5,
+            "group": "Zionsville Community HS",
+            "score": 93.55
+          },
+          {
+            "rank": 6,
+            "group": "Jordan HS",
+            "score": 91.438
+          },
+          {
+            "rank": 7,
+            "group": "Beavercreek HS",
+            "score": 90.963
+          },
+          {
+            "rank": 8,
+            "group": "Greenfield-Central HS",
+            "score": 90.338
+          },
+          {
+            "rank": 9,
+            "group": "Franklin Community HS",
+            "score": 89.55
+          },
+          {
+            "rank": 10,
+            "group": "Central Lafourche HS",
+            "score": 88.775
+          },
+          {
+            "rank": 11,
+            "group": "Auburn HS (AL)",
+            "score": 88.05
+          },
+          {
+            "rank": 12,
+            "group": "Goshen HS",
+            "score": 87.4
+          },
+          {
+            "rank": 13,
+            "group": "Brandon Valley HS",
+            "score": 86.913
+          },
+          {
+            "rank": 14,
+            "group": "Arbor View HS",
+            "score": 86.9
+          },
+          {
+            "rank": 15,
+            "group": "Sparkman HS",
+            "score": 81.3
+          }
+        ]
+      }
+    ],
+    "Percussion Scholastic World": [
+      {
+        "class": "Percussion Scholastic World",
+        "event": "2026 Percussion World Class Finals - Round 0",
+        "date": "2026-04-18",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Ayala HS",
+            "score": 98.638
+          },
+          {
+            "rank": 2,
+            "group": "Vista Murrieta HS",
+            "score": 97.6
+          },
+          {
+            "rank": 3,
+            "group": "Chino Hills HS",
+            "score": 97.188
+          },
+          {
+            "rank": 4,
+            "group": "Arcadia HS",
+            "score": 96.85
+          },
+          {
+            "rank": 5,
+            "group": "Burleson Centennial HS",
+            "score": 94.225
+          },
+          {
+            "rank": 6,
+            "group": "Bridgeland HS",
+            "score": 94.113
+          },
+          {
+            "rank": 7,
+            "group": "Clear Brook HS",
+            "score": 93.113
+          },
+          {
+            "rank": 8,
+            "group": "Saratoga HS",
+            "score": 92.525
+          },
+          {
+            "rank": 9,
+            "group": "Avon HS",
+            "score": 91.488
+          },
+          {
+            "rank": 10,
+            "group": "Center Grove HS",
+            "score": 90.7
+          },
+          {
+            "rank": 11,
+            "group": "Cy-Fair HS",
+            "score": 90.6
+          },
+          {
+            "rank": 12,
+            "group": "James Logan HS",
+            "score": 90.5
+          },
+          {
+            "rank": 13,
+            "group": "Broken Arrow HS",
+            "score": 87.725
+          },
+          {
+            "rank": 14,
+            "group": "Etiwanda HS",
+            "score": 86.65
+          },
+          {
+            "rank": 15,
+            "group": "Buchanan HS",
+            "score": 86.35
+          }
+        ]
+      }
+    ],
+    "Percussion Independent A": [],
+    "Percussion Independent Open": [
+      {
+        "class": "Percussion Independent Open",
+        "event": "2026 Percussion Open Class Finals - Round 0",
+        "date": "2026-04-18",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Veritas",
+            "score": 98.463
+          },
+          {
+            "rank": 2,
+            "group": "UTSA",
+            "score": 97.75
+          },
+          {
+            "rank": 3,
+            "group": "Cap City 2",
+            "score": 97.675
+          },
+          {
+            "rank": 4,
+            "group": "Bakersfield College",
+            "score": 94.613
+          },
+          {
+            "rank": 5,
+            "group": "Q2",
+            "score": 94.5
+          },
+          {
+            "rank": 6,
+            "group": "Spectre Percussion",
+            "score": 94.038
+          },
+          {
+            "rank": 7,
+            "group": "Paradigm Percussion",
+            "score": 93.0
+          },
+          {
+            "rank": 8,
+            "group": "Sparta Indoor Percussion",
+            "score": 92.8
+          },
+          {
+            "rank": 9,
+            "group": "Motor City Percussion",
+            "score": 90.375
+          },
+          {
+            "rank": 10,
+            "group": "Infinity 3",
+            "score": 89.9
+          },
+          {
+            "rank": 11,
+            "group": "Matrix Open",
+            "score": 89.6
+          },
+          {
+            "rank": 12,
+            "group": "Freedom Percussion",
+            "score": 89.375
+          },
+          {
+            "rank": 13,
+            "group": "Sun City Independent",
+            "score": 88.05
+          },
+          {
+            "rank": 14,
+            "group": "Imperial Dynasty",
+            "score": 87.5
+          },
+          {
+            "rank": 15,
+            "group": "Buckhorn Percussion",
+            "score": 87.025
+          }
+        ]
+      }
+    ],
+    "Percussion Independent World": [
+      {
+        "class": "Percussion Independent World",
+        "event": "2026 Percussion World Class Finals - Round 0",
+        "date": "2026-04-18",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Rhythm X",
+            "score": 99.3
+          },
+          {
+            "rank": 2,
+            "group": "RCC",
+            "score": 97.788
+          },
+          {
+            "rank": 3,
+            "group": "Pulse Percussion",
+            "score": 97.275
+          },
+          {
+            "rank": 4,
+            "group": "Music City Mystique",
+            "score": 96.6
+          },
+          {
+            "rank": 5,
+            "group": "Broken City",
+            "score": 96.288
+          },
+          {
+            "rank": 6,
+            "group": "Infinity",
+            "score": 95.413
+          },
+          {
+            "rank": 7,
+            "group": "George Mason University",
+            "score": 94.263
+          },
+          {
+            "rank": 8,
+            "group": "Rhythmic Force Percussion",
+            "score": 93.325
+          },
+          {
+            "rank": 9,
+            "group": "POW Percussion",
+            "score": 91.35
+          },
+          {
+            "rank": 10,
+            "group": "Atlanta Quest",
+            "score": 90.675
+          },
+          {
+            "rank": 11,
+            "group": "Dark Sky Percussion",
+            "score": 90.583
+          },
+          {
+            "rank": 12,
+            "group": "Matrix",
+            "score": 89.45
+          },
+          {
+            "rank": 13,
+            "group": "Redline",
+            "score": 88.25
+          },
+          {
+            "rank": 14,
+            "group": "Cap City",
+            "score": 87.85
+          },
+          {
+            "rank": 15,
+            "group": "Infinity 2",
+            "score": 87.688
+          }
+        ]
+      }
+    ]
+  }
+}
